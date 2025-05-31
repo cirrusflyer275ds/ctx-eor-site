@@ -19,6 +19,7 @@ theme:
 
 nav:
   - Home: index.md
+  - Why CTX-EOR: why-ctx.md
   - Services:
       - EOR: eor.md
       - Payroll: payroll.md
