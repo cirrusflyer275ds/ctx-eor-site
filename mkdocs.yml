@@ -1,0 +1,12 @@
+
+site_name: CTX-EOR
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Services:
+      - EOR: eor.md
+      - Payroll: payroll.md
+      - Benefits: benefits.md
+  - About Us: about.md
+  - Contact: contact.md
