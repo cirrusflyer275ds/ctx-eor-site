@@ -1,7 +1,7 @@
-
 site_name: CTX-EOR
 theme:
   name: material
+
 nav:
   - Home: index.md
   - Services:
