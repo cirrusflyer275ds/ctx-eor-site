@@ -20,6 +20,7 @@ theme:
 nav:
   - Home: index.md
   - Why CTX-EOR: why-ctx.md
+  - How It Works: how-it-works.md
   - Services:
       - EOR: eor.md
       - Payroll: payroll.md
