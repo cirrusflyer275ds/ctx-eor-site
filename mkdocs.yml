@@ -19,7 +19,8 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
-
+extra_css:
+  - extra.css
 nav:
   - Home: index.md
   - Why CTX-EOR: why-ctx.md
