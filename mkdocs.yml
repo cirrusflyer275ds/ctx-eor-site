@@ -7,7 +7,7 @@ theme:
   logo: logo.png
   favicon: logo.png
   extra_css:
-  - extra.css
+  - assets/extra.css
   palette:
     - scheme: default
       primary: indigo
