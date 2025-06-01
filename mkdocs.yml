@@ -6,6 +6,8 @@ theme:
     - navigation.sections
   logo: logo.png
   favicon: logo.png
+  extra_css:
+    - assets/extra.css
   palette:
     - scheme: default
       primary: indigo
@@ -19,8 +21,6 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
-  extra_css:
-  - assets/extra.css
 
 nav:
   - Home: index.md
