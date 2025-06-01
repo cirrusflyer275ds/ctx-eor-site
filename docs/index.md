@@ -1,6 +1,6 @@
 # CTX-EOR
 
-# Trial Your Next Hire. Without the Risk.
+## Trial Your Next Hire. Without the Risk.
 
 CTX-EOR handles payroll, taxes, compliance, and onboarding — so you can test real performance before committing to a full hire.
 
