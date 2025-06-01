@@ -1,6 +1,4 @@
-
-/* CTX-EOR Custom Theme */
-
+/* CTX-EOR Reset Theme – Test File */
 :root {
   --md-primary-fg-color: #e57200;
   --md-primary-fg-color--light: #fcd4a4;
@@ -11,69 +9,14 @@
   --md-accent-fg-color--dark: #a24a00;
 
   --md-default-bg-color: #ffffff;
-  --md-code-bg-color: #f4f4f4;
   --md-text-color: #1f1f1f;
-  --md-typeset-a-color: #e57200;
 }
 
-/* Typography */
-.md-typeset h1,
-.md-typeset h2,
-.md-typeset h3 {
-  font-weight: 600;
+/* Test visible color */
+.md-header, .md-footer {
+  background-color: #e57200 !important;
 }
 
-.md-typeset a {
-  text-decoration: none;
-  font-weight: 500;
-}
-
-/* Buttons and links */
-.md-button,
-.md-button--primary {
-  background-color: var(--md-primary-fg-color);
-  color: #ffffff;
-}
-
-.md-button--primary:hover {
-  background-color: var(--md-primary-fg-color--dark);
-}
-
-/* Header and Nav */
-.md-header,
-.md-tabs {
-  background-color: var(--md-primary-fg-color);
-}
-
-.md-header__title,
-.md-tabs__link {
+.md-header__title, .md-footer {
   color: #ffffff !important;
-}
-
-.md-tabs__link--active {
-  border-bottom: 2px solid var(--md-accent-fg-color--dark);
-}
-
-/* Footer */
-.md-footer {
-  background-color: var(--md-primary-fg-color--dark);
-  color: #ffffff;
-}
-
-.md-footer a {
-  color: #ffffff;
-}
-
-/* Code and Preformatted */
-code,
-pre {
-  background-color: var(--md-code-bg-color);
-  color: #e57200;
-}
-
-/* Responsive padding for mobile */
-@media screen and (max-width: 768px) {
-  .md-content {
-    padding: 0 12px;
-  }
 }
