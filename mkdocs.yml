@@ -1,8 +1,8 @@
 site_name: CTX-EOR
 theme:
   name: material
-    features:
-      - navigation.expand
+  features:
+    - navigation.expand
   logo: logo.png
   favicon: logo.png
   palette:
