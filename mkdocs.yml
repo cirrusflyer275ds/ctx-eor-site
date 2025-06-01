@@ -6,7 +6,7 @@ theme:
     - navigation.sections
   logo: logo.png
   favicon: logo.png
-  extra_css:
+extra_css:
     - extra.css
   palette:
     - scheme: default
