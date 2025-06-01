@@ -1,3 +1,8 @@
+---
+title: Home
+hide:
+  - toc
+---
 # CTX-EOR
 
 ## Trial Your Next Hire. Without the Risk.
