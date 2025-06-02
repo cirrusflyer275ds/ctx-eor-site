@@ -1,34 +1,74 @@
+---
+title: The CTX Platform
+hide:
+  - toc
+---
 
-# The CTX Platform
+# The CTX-EOR Platform
 
-At CTX-EOR, our platform isn’t just software—it’s your workforce operations partner.
+## Smart Infrastructure for Modern Hiring
 
-Whether you’re onboarding your first worker or scaling a regional team, CTX gives you a clean, guided experience to manage employment without the stress.
+CTX-EOR is more than an Employer of Record. It’s a complete platform purpose-built to support trial hiring — from first invite to final decision.
 
-## Built for North American Employers
+We streamline every step of the evaluation process while protecting you from risk. You stay focused on performance. We handle everything else.
 
-We don’t claim to be everywhere. We focus where it counts: the U.S. and Canada. Our tools are fine-tuned to handle the complexity of:
-- Federal and state-level compliance
-- City-specific labor rules
-- Cross-border employment for U.S./Canadian hires
+---
 
-## Everything in One Place
+## Built-In Evaluation Tools
 
-- **Digital Onboarding**: W-4, I-9, direct deposit, benefits—done in minutes.
-- **Integrated Payroll**: We pay your team, remit taxes, and generate documents.
-- **Live Trial Tracking**: Want to “test drive” talent? We support structured evaluations and trial periods before full hiring decisions.
-- **Audit-Ready Records**: From time tracking to tax docs, everything’s organized and exportable.
+Our platform includes:
 
-## Made for Modern Teams
+✅ Structured onboarding with audit trail  
+✅ Timed trial periods with automated check-ins  
+✅ Manager prompts to assess real-world performance  
+✅ Optional skill matching and screening support  
+✅ A clear decision point — without guesswork
 
-- Mobile-first
-- Manager-friendly
-- Audit-safe
-- Candidate-supportive
+You get the infrastructure of a full HR stack, without the overhead.
 
-> CTX isn’t a temp agency. It’s how serious teams get compliant, flexible help—without the overhead of hiring full-time.
+---
 
-----
+## Everything in One Seamless Flow
 
-### Want to see it live?
-[Book a demo](#) or contact us to access a sandbox.
+From day one, we coordinate all the moving parts:
+
+1. **Invite & Setup**  
+   You define the role and candidate. We handle the paperwork.
+
+2. **Onboarding & Compliance**  
+   Tax forms, I-9, background screening — completed and filed.
+
+3. **Trial Period Begins**  
+   We guide the evaluation process through regular check-ins.
+
+4. **Decision Time**  
+   You get real data, not interview impressions.
+
+5. **Make the Call**  
+   Ready to hire? Great. Not a fit? No problem — we manage the offboarding.
+
+---
+
+## You Stay in Control
+
+- You pick the talent  
+- You define the work  
+- You make the final call
+
+CTX-EOR exists to support your hiring process — not to replace it.
+
+---
+
+## Fast. Compliant. Transparent.
+
+- 🔐 Secure document and identity verification  
+- 💬 Mobile-friendly workflow and communication  
+- 🗂 Digital audit trail with exportable records  
+- 🚀 Most workers are ready to go in under 24 hours
+
+It’s the future of compliant hiring — built for speed and accountability.
+
+---
+
+[See How It Works →](how-it-works.md)  
+[Book a Free Consultation →](#)
