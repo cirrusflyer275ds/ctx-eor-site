@@ -1,51 +1,85 @@
-# How CTX-EOR Works
+---
+title: Employer Overview
+hide:
+  - toc
+---
 
-## From Trial to Trusted Hire — The CTX-EOR Process
+# Employer Overview
 
-We’ve built a simple, smart, and proven path to help you evaluate and retain great team members — with no risk and no surprises.
+## Trial Hiring, Fully Covered
+
+CTX-EOR exists to solve one critical problem: **How can you try a new hire before committing — without exposing your business to compliance risk?**
+
+We’re the answer.  
+You focus on evaluating fit.  
+We handle everything else.
 
 ---
 
-### ✅ Step 1: Create a Trial Position
+## What We Handle
 
-- Select the role, pay, location, and supervisor
-- Use our structured evaluation builder or your own job requirements
-- We handle onboarding, compliance, and payroll
+CTX-EOR is the **legal employer** of record for your trial-period hires. That means we’re responsible for:
 
----
+- ✅ Worker classification (W-2, not 1099)
+- ✅ Federal & state tax compliance
+- ✅ Payroll processing & wage remittance
+- ✅ I-9 verification and onboarding
+- ✅ Background screening
+- ✅ Benefits administration (optional)
 
-### 🔍 Step 2: Screen Candidates
-
-- We can assist with screening (or bring your own)
-- Add optional background checks and document verification
-- Schedule a video interview or assign a short evaluation task
-
----
-
-### 🚀 Step 3: Launch the Trial
-
-- Trial begins — candidate is employed by CTX-EOR
-- They start working under your guidance
-- Full benefits and compliance covered on day 1
+All while the worker is actively contributing to your team — on your terms.
 
 ---
 
-### 📊 Step 4: Evaluate Performance
+## What You Control
 
-- We send structured check-ins to supervisors
-- Track fit, reliability, and outcomes over 30–60–90 days
-- Ask: "Are they ahead or behind?"
+You still control:
 
----
+- Who to evaluate  
+- What work they do  
+- How long the trial lasts  
+- When (and whether) to convert to a full hire
 
-### 🤝 Step 5: Convert or Conclude
-
-- Love them? Hire them permanently — no fees or hassle
-- Not the right fit? Let us know — we offboard immediately
-- Your team gets better, one smart trial at a time
+We simply make sure everything is **legal**, **compliant**, and **easy** during that period.
 
 ---
 
-## Want to see this in action?
+## Why Employers Choose CTX-EOR
 
-[Book a demo](contact.md) and we’ll walk you through the full flow.
+| ❌ Traditional Hiring | ✅ CTX-EOR |
+|----------------------|-----------|
+| Resume-based guesswork | Work sample evaluations |
+| Risky pre-hire decisions | Compliant trial hiring |
+| HR setup slows you down | Fully managed onboarding |
+| Can’t legally “try before hire” | Now you can — safely |
+
+---
+
+## Trusted Infrastructure, Built for Speed
+
+Our onboarding process is fast, digital, and built for compliance:
+
+- Identity checks (Veriff)  
+- Background screening (Checkr)  
+- IRS & DHS compliance  
+- Fully remote, mobile-friendly flow  
+- Audit trails and digital records
+
+Workers can start in as little as 24 hours.  
+No waiting. No legal gray areas.
+
+---
+
+## At the End of the Trial?
+
+You decide.
+
+- ✅ Hire them — we hand off smoothly.
+- ❌ Not a fit? We manage the exit, no headaches.
+
+It’s the safest way to hire smart — and it’s built for your reality.
+
+---
+
+[📅 Book a Free Consultation](#)  
+[See How It Works →](how-it-works.md)
