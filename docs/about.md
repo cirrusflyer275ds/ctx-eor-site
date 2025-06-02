@@ -1,47 +1,80 @@
+---
+title: About Us
+hide:
+  - toc
+---
 
 # About CTX-EOR
 
-## Built in the U.S. for U.S. Employers
-
-CTX-EOR was founded by staffing industry veterans with over 30 years of experience helping thousands of employers hire and manage workers in light industrial, administrative, and professional sectors.
-
----
-
-## Our Mission
-
-To make hiring in the U.S. simple, compliant, and flexible — whether you're testing a candidate on a trial basis or scaling your workforce nationwide.
+Hiring has changed.  
+We're here to help you change with it.
 
 ---
 
-## Our Experience
+## Built for the Future of Work
 
-- 💼 Over 100,000 workers onboarded
-- 🏭 Supported thousands of employers in Delaware, Maryland, New Jersey, and Pennsylvania
-- 📄 Millions of payroll transactions processed
-- 🔍 Fully integrated with Checkr, Veriff, and modern payroll infrastructure
-- 🧠 Deep understanding of the U.S. employment landscape
+CTX-EOR was founded to help U.S. companies hire better — faster, smarter, and with less risk.
 
----
+In a market flooded with global providers, we focus where it matters:  
+**North American employers who need real results.**
 
-## Why We're Different
-
-CTX-EOR focuses exclusively on the U.S. market. While many competitors build for global hiring, we believe the best EOR solution for American employers comes from American experience.
-
-- 🇺🇸 U.S.-only hiring infrastructure
-- 💬 Local compliance and payroll expertise
-- ⚖️ Full Employer of Record protections for any size company
-- ✅ Trial-to-Hire model allows for risk-free hiring decisions
+We're not a temp agency.  
+We're not an overseas outsourcing shop.  
+We're a compliance engine, a payroll platform, and a hiring ally — rolled into one.
 
 ---
 
-## Our Promise
+## Who We Serve
 
-We’ll help you say “yes” to great talent — without the stress of onboarding, payroll, tax compliance, or HR risk.
+- U.S.-based companies of all sizes
+- Founders and teams who want to **“test before they invest”**
+- Companies exploring **fractional or phased hiring**
+- Managers who want to evaluate performance before extending a full offer
+
+Whether you're hiring your 2nd team member or your 20th, CTX-EOR gives you the structure to do it right.
 
 ---
 
-📞 Call us: (800) 555-0199  
-📧 hello@ctx-eor.com  
-Or [Book a Demo](#)
+## What Makes Us Different
+
+| 💡 Most EORs | ✅ CTX-EOR |
+|-------------|------------|
+| Built for global compliance | Built for North American hiring |
+| Focused on full-time roles | Built for **trial and phased** hiring |
+| Pricey, enterprise-focused | Small-business friendly |
+| Complex onboarding | Clean, mobile-first candidate experience |
+| Static payroll rules | Flexible by design |
 
 ---
+
+## We Handle the Risk — So You Can Focus on Fit
+
+Every candidate is employed by CTX-EOR during their trial period.  
+We take on:
+
+- Legal employer status  
+- Payroll processing  
+- Employment taxes  
+- I-9 compliance  
+- Worker onboarding and offboarding  
+- Benefits and insurance
+
+You focus on results. We handle the rest.
+
+---
+
+## Why “CTX”?
+
+CTX stands for **Context**. Because that's what real hiring requires.  
+Not just résumés or interviews — but **real-world performance** in your real-world context.
+
+We help you find the people who **fit your team**, not just the job posting.
+
+---
+
+## Want to See It in Action?
+
+We built this for you — the modern employer.  
+Let us show you how it works.
+
+[Book your free consultation](contact.md)
