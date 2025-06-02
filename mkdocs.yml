@@ -34,6 +34,7 @@ nav:
   - Fine-Tune Production Worker: fine-tune-production-worker.md
   - Evaluation-Checkpoints: evaluation-checkpoints.md
   - Save Trial: save-and-share.md
+  - Trial Dashboard: trial-dashboard.md
   - Structured Evaluation: structured-evaluation.md
   - Compliance: compliance.md
   - The CTX Platform: platform.md
