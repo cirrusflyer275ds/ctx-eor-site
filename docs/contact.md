@@ -1,57 +1,56 @@
-# Contact CTX-EOR
+---
+title: Contact Us
+hide:
+  - toc
+---
 
-## Let’s Talk About Your Workforce
+# Let's Talk
 
-Have questions about our Employer of Record services? Want to explore trial-to-hire hiring? Ready to simplify onboarding, payroll, and compliance?
+Have questions about how CTX-EOR can support your next hire?  
+We’re here to help — whether you want to:
 
-Fill out the form below — or reach out directly. We’ll be in touch within 1 business day.
-
-<form name="contact" method="POST" netlify>
-  <input type="hidden" name="form-name" value="contact" />
-
-  **Your Name**  
-  <input type="text" name="name" required style="width:100%; padding:8px; margin-bottom:10px;" />
-
-  **Your Email**  
-  <input type="email" name="email" required style="width:100%; padding:8px; margin-bottom:10px;" />
-
-  **Company Name**  
-  <input type="text" name="company" style="width:100%; padding:8px; margin-bottom:10px;" />
-
-  **Message or Request**  
-  <textarea name="message" rows="5" style="width:100%; padding:8px;" required></textarea>
-
-  <br><br>
-  <button type="submit" style="padding:10px 20px; background-color:#2A4B7C; color:white; border:none; border-radius:4px;">Send Message</button>
-</form>
+- Understand how trial hiring works  
+- Get pricing details for your state or situation  
+- Walk through compliance or benefits  
+- See how onboarding works  
+- Or just talk it out with a real person
 
 ---
 
-### 📞 Call Us  
-(800) 555-0199  
-Mon–Fri, 9am–6pm EST
+## 📅 Book a Free Consultation
+
+Want to skip the back-and-forth?  
+Schedule a quick intro call with our team:
+
+[👉 Book a Time That Works for You](#)
 
 ---
 
-### 📧 Email Us  
-hello@ctx-eor.com  
-We typically respond within 1 business day.
+## 📬 Prefer Email?
+
+No problem. Drop us a line and we’ll respond fast:
+
+**hello@ctx-eor.com**
+
+(We usually respond within 1 business day.)
 
 ---
 
-### 📅 Book a Demo  
-Want to see CTX-EOR in action?  
-[Schedule a Demo](#)
+## 🗺️ Where We Operate
 
-We’ll walk you through:
-- How our trial-to-hire EOR model works
-- Onboarding flow and compliance tools
-- Pricing and worker protections
-- How to get started in under 24 hours
+We support U.S. employers in all 50 states.
+
+We are not a global EOR — by design.  
+That means faster onboarding, stronger compliance, and fewer layers.
 
 ---
 
-### 🗺️ Office Location (Optional)  
-CTX-EOR  
-123 Workforce Lane  
-Wilmington, DE 19801
+## Already Have a Candidate?
+
+That’s great. We can start onboarding within 24 hours.  
+Just send us their name and state, and we’ll take it from there.
+
+---
+
+Still not sure if trial hiring is right for you?  
+[Check out how it works](how-it-works.md) or [review the employer overview](employer-overview.md).
