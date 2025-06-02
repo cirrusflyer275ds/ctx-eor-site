@@ -4,76 +4,65 @@ hide:
   - toc
 ---
 
-# Simple, Transparent Pricing  
-## No long-term contracts. No surprise fees.
+# Simple, Transparent Pricing
+
+We keep it straightforward: **One flat weekly rate per trial worker**.
+
+No setup fees. No long-term commitments. No hidden costs.
 
 ---
 
-## Trial-First Pricing, Built for Flexibility
+## 💵 Weekly Flat Rate: $XXX / week
 
-At CTX-EOR, you're not locked into long-term hiring commitments.  
-You pay only for the time a candidate is actively on trial with your team.
+**What’s included** in every engagement:
 
-We believe in pricing that’s clear, fair, and optimized for modern employers.
+- ✅ Legal Employer of Record (EOR)
+- ✅ I-9 verification and compliance handling
+- ✅ Payroll processing and tax filings
+- ✅ Access to benefits: medical, dental, vision, 401(k)
+- ✅ Background screening (Checkr)
+- ✅ Employee onboarding and digital recordkeeping
+- ✅ Exit handling (voluntary or not)
+- ✅ Ongoing compliance and support
 
----
-
-## What's Included in Every Trial:
-
-✅ Legal employment by CTX-EOR  
-✅ Full payroll processing  
-✅ Federal & state tax compliance  
-✅ I-9 identity verification & storage  
-✅ Background checks (when required)  
-✅ Health, dental, and vision benefit options  
-✅ Worker onboarding and support  
-✅ Worker offboarding, if needed  
-✅ 401(k) availability  
-✅ Digital recordkeeping and audit trail  
-✅ Optional insurance (workers’ comp, liability)
-
-> 🧾 **You pay one flat weekly rate per trial worker. That’s it.**
+> All services included. No extra fees for compliance or onboarding.
 
 ---
 
-## Flexible Terms
+## 📦 Add-Ons (Optional)
 
-- **No monthly minimums**
-- **No annual contract**
-- **No penalty for trial ending early**
+- Health benefit subsidies (if your company contributes)
+- Remote verifier support or scheduling
+- Workers’ compensation support (if applicable)
+- Custom agreements or training docs
+- Supervisor evaluation feedback automation
 
-Your team gets the flexibility to **test before you invest** — without tying up capital or legal resources.
-
----
-
-## Optional Add-Ons
-
-- 📍 **Location-specific compliance handling** (if required)  
-- 🎯 **Screening and interview services**  
-- 💼 **Benefit subsidy management** for customers covering health plans  
-- 📊 **Custom reporting or analytics feeds**
-
-Let us know what you need — we’re happy to tailor your plan.
+Let’s discuss if you need these — no two trials are alike.
 
 ---
 
-## Need an Estimate?
+## ❌ What You’ll Never Pay For
 
-We’ll give you a simple per-worker weekly quote based on:
+- ❌ Recruiting or staffing fees  
+- ❌ Setup costs or platform access fees  
+- ❌ Annual licenses or hidden markups  
+- ❌ Global EOR overhead — we're U.S.-only and lean
 
-- Work location (for tax purposes)
-- Desired benefits package
-- Job classification
+---
+
+## 📈 Volume Discounts & Multi-Trial Pricing
+
+If you’re trialing more than one person — or running ongoing trial hiring across teams —  
+let’s talk. We offer flexible models for:
+
+- Multiple simultaneous workers  
+- Ongoing trial pipelines  
+- Regional or seasonal needs
+
+---
+
+## ⚡ See What It Could Look Like
+
+Let us model a sample engagement for you — no obligation, no hard sell.
 
 [📅 Book a Free Consultation](contact.md)
-
----
-
-## Built for Small Teams, Designed to Scale
-
-We work with startups, nonprofits, and growing companies — not just large enterprises.
-
-If you’re hiring 1, 5, or 15 workers, we’re ready.  
-If you’re expanding nationally, we’ll grow with you.
-
----
