@@ -1,76 +1,96 @@
+---
+title: How It Works
+hide:
+  - toc
+---
+
 # How It Works
 
-At CTX-EOR, we’ve designed a hiring and employment experience that puts **control, compliance, and confidence** into the hands of North American businesses.
+## Trial Hiring, Without the Risk
 
-We act as your **Employer of Record**, but with structure, strategy, and service levels that go far beyond check-the-box providers.
+We make it easy to evaluate new talent on the job — before making a full-time offer.
 
----
-
-## Step 1: You Identify the Role
-
-Bring us the role you need to fill — whether it's high-volume entry-level or a niche specialist. You can define the job, or we can help you clarify based on similar hiring patterns and market intelligence.
+Here’s how the CTX-EOR model works from start to finish:
 
 ---
 
-## Step 2: We Source and Screen Candidates
+## Step 1: You Choose the Candidate
 
-We handle sourcing or work with your recruiting funnel. Every candidate goes through a structured screening and qualification process that respects their time and yields better-fit hires.
+You identify the worker you want to trial.  
+We can support your screening process — or stay out of it.
 
-We verify eligibility, collect onboarding documents, and handle tax/employment setup. You stay hands-off — no paperwork chaos.
-
----
-
-## Step 3: Trial Employment Starts
-
-This is where CTX-EOR shines.
-
-Each candidate starts a **trial evaluation period** as a W-2 employee of CTX. You get to observe real performance in your environment before making a long-term commitment.
-
-You can give us feedback mid-trial or walk away risk-free.
+> Want help? Our screening options include:
+> - Job-specific questions
+> - Recorded video responses
+> - Human-conducted interviews
+> - Background checks and eligibility confirmation
 
 ---
 
-## Step 4: You Decide — Keep, Replace, or Extend
+## Step 2: We Onboard and Employ Them
 
-After the evaluation:
-- **Hire directly** if they’re a great fit
-- **Request a replacement** if it didn’t work out
-- **Extend the trial** if you need more time
+CTX-EOR becomes the **legal employer** for the trial period.  
+We handle:
 
-You only convert candidates who earn the spot.
+- IRS-compliant payroll  
+- State-by-state tax withholding  
+- I-9 identity verification  
+- Benefits setup (if applicable)  
+- Digital onboarding  
+- Legal paperwork, W-4s, and more
 
----
-
-## Step 5: We Handle the Back Office
-
-CTX-EOR manages:
-- Payroll and tax filings
-- Benefits and HR compliance
-- Employment liability
-- Ongoing employee support
-
-You get the people. We take the risk.
+All without slowing you down.
 
 ---
 
-## Built for the U.S. — Not for the World
+## Step 3: You Evaluate, We Cover the Rest
 
-Most EORs are designed for **global hiring**. That’s not us.
+The worker joins your team and does the job — just like any employee.  
+You manage their schedule, tasks, and expectations.  
+We remain responsible for:
 
-We specialize in **U.S.-based employment**, which means:
-- Real compliance with U.S. state and federal laws
-- Accurate payroll, onboarding, and worker classification
-- No awkward “international” workarounds
+- Legal employment  
+- Payroll & compliance  
+- Recordkeeping & documents  
+- Benefits and time-off tracking (if enabled)
+
+> 💡 You get full insight and control — without the administrative load.
 
 ---
 
-## Why It Works
+## Step 4: You Decide What’s Next
 
-This isn’t theory. It’s a structured, field-tested model that:
-- Improves retention
-- Reduces mis-hires
-- Supports scale
-- Provides legal coverage
+At the end of the trial, you choose:
 
-Let’s build your team the right way.
+- ✅ They’re a great fit → Convert them to your payroll  
+- ❌ Not the right match → We handle the offboarding
 
+No risk. No entanglements. Just a clearer decision.
+
+---
+
+## Timeline Snapshot
+
+| Action | Who Does It | Typical Time |
+|--------|-------------|--------------|
+| Candidate selected | You | Anytime |
+| Onboarding begins | CTX-EOR | < 1 day |
+| Worker start date | You choose | 1–3 days |
+| Trial length | You choose | 2–12 weeks |
+| Hire decision | You | At trial end |
+
+---
+
+## What Makes It Work
+
+- 🔒 Compliance-first foundation  
+- ⚡ Fast, fully digital onboarding  
+- 🤝 Flexibility for you, protection for the worker  
+- 📱 Mobile-friendly flows  
+- 🧠 Optional AI screening and trial performance scoring  
+- 🇺🇸 U.S. employment only — we know the rules
+
+---
+
+[Book a Free Consultation →](#)  
+[Return to Employer Overview](employer-overview.md)
