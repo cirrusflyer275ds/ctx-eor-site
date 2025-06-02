@@ -7,6 +7,7 @@ theme:
   features:
     - navigation.expand
     - navigation.sections
+    - navigation.sticky
   logo: logo.png
   favicon: logo.png
 
