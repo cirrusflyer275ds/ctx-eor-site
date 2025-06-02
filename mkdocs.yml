@@ -29,7 +29,9 @@ nav:
   - Request a Demo: demo-request.md
   - Why CTX-EOR: why-ctx.md
   - Employer Overview: employer-overview.md
-  - How It Works: how-it-works.md
+  - How It Works:
+    - Overview: how-it-works.md
+    - Candidate Onboarding: candidate-onboarding.md
   - Trial Hiring: trial-hiring.md
   - Trial Builder: trial-builder.md
   - Fine-Tune Production Worker: fine-tune-production-worker.md
