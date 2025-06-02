@@ -35,18 +35,19 @@ nav:
   - Fine-Tune Production Worker: fine-tune-production-worker.md
   - Evaluation-Checkpoints: evaluation-checkpoints.md
   - Save Trial: save-and-share.md
+  - Trial:
   - Trial Dashboard: trial-dashboard.md
-  - Trial Details: trial-details.md
-  - Trial Builder: trial-builder-step1.md
-  - Role Template: trial-builder-step2.md
-  - Customize Role: trial-builder-step3.md
-  - Set Timeline & Manager: trial-builder-step4.md
-  - Worksite & Schedule: trial-builder-step5.md
-  - Screening & Background Requirements: trial-builder-step6.md
-  - Pay & Benefits Setup: trial-builder-step7.md
-  - Employer Cost Estimate: trial-builder-step8.md
-  - Trial Timeline & Check-ins: trial-builder-step9.md
-  - Finalize & Save: trial-builder-step10.md
+    - Trial Details: trial-details.md
+    - Trial Builder: trial-builder-step1.md
+      - Role Template: trial-builder-step2.md
+      - Customize Role: trial-builder-step3.md
+      - Set Timeline & Manager: trial-builder-step4.md
+    - Worksite & Schedule: trial-builder-step5.md
+    - Screening & Background Requirements: trial-builder-step6.md
+    - Pay & Benefits Setup: trial-builder-step7.md
+    - Employer Cost Estimate: trial-builder-step8.md
+    - Trial Timeline & Check-ins: trial-builder-step9.md
+    - Finalize & Save: trial-builder-step10.md
   - Structured Evaluation: structured-evaluation.md
   - Compliance: compliance.md
   - The CTX Platform: platform.md
