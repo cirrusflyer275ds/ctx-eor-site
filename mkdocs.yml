@@ -35,6 +35,7 @@ nav:
   - Evaluation-Checkpoints: evaluation-checkpoints.md
   - Save Trial: save-and-share.md
   - Trial Dashboard: trial-dashboard.md
+  - Trial Details: trial-details.md
   - Structured Evaluation: structured-evaluation.md
   - Compliance: compliance.md
   - The CTX Platform: platform.md
