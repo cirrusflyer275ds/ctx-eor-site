@@ -31,8 +31,9 @@ nav:
   - Employer Overview: employer-overview.md
   - How It Works:
     - Overview: how-it-works.md
-    - Candidate Onboarding: candidate-onboarding.md
+    - Candidate Onboarding: onboarding-step-2-candidate-onboarding.md
     - Employment Forms: onboarding-step-3-employment-forms.md
+    - Screening & Background Checks: onboarding-step-4-screening.md
   - Trial Hiring: trial-hiring.md
   - Trial Builder: trial-builder.md
   - Fine-Tune Production Worker: fine-tune-production-worker.md
