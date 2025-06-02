@@ -1,65 +1,55 @@
+
 # Trial Hiring with CTX-EOR
 
-## Test Drive Your Talent — Welcome to the Future of Hiring
+## Turn Hiring into a Test Drive
 
-Why gamble on a resume or a rushed interview? CTX-EOR lets you **test drive your next hire** — with structure, support, and zero legal risk.
+Traditional hiring is a bet. CTX-EOR turns it into a smart trial.
 
-We’re redefining how modern companies build teams: not through guesswork, but by observing real work.
-
----
-
-### 🧪 What Is Trial Hiring?
-
-Trial hiring is your **hiring probation, modernized**.
-
-- You define the role, pay, duration (4-week minimum)
-- Candidate becomes a **fully onboarded employee of CTX-EOR**
-- You direct their work. We handle the compliance.
-- At the end of the trial? Hire or walk away — no strings attached.
+We serve as the legal employer so you can evaluate real-world performance — not just résumés or interviews. You choose the candidate. We handle everything else.
 
 ---
 
-### 🔍 The Problem with Traditional Hiring
+## The Problem with Conventional Hiring
 
-- Gut feel interviews ≠ actual job performance
-- 60% of bad hires are discovered **after** onboarding
-- Traditional EORs focus on **scale**, not **fit**
-
-**We fix that.**
-
----
-
-### 🚀 How Trial Hiring Works
-
-1. You create a position (or use our template)
-2. Choose your trial duration (4+ weeks)
-3. We onboard and employ the worker
-4. You observe, coach, and manage
-5. You evaluate real-world results — not interview answers
+| ❌ Common Challenge | 💡 CTX-EOR Advantage |
+|--------------------|----------------------|
+| Hiring based on interviews is risky | Trial hires reveal performance, fit, and reliability |
+| HR overhead slows decision-making | We handle payroll, taxes, compliance, and onboarding |
+| Termination risk creates hesitation | We carry the employment relationship during the trial |
 
 ---
 
-### 📊 Optional: Structured Evaluation
+## Your Trial, Our Compliance
 
-Want even more clarity?
+CTX-EOR acts as the **Employer of Record (EOR)** during the trial period. That means:
 
-- We’ll prompt the supervisor with job-specific check-ins
-- You’ll receive mini-reports at 2, 4, 6 weeks
-- Built with O*NET-backed traits + success signals
+- **You control the work** — they’re on your schedule, doing your tasks.
+- **We carry the risk** — payroll, I-9s, W-4s, state registrations, benefits.
+- **You stay flexible** — convert to hire when ready, or part ways with no red tape.
 
----
-
-### 🤝 Better for Employers. Better for Candidates.
-
-- No awkward offboarding if it’s not a fit
-- No HR headaches or sunk costs
-- Candidates get to show what they’re made of
-- Everyone wins when fit is verified through real work
+> 🛡️ We’re not a staffing firm. We’re a platform for flexible, compliant trial hiring — purpose-built for modern teams.
 
 ---
 
-## It’s Time to Test Drive Your Talent
+## Built for U.S. Employers
 
-The future of work is **evidence-based**, not guess-based.
+- Fully compliant with U.S. tax and employment law  
+- Identity & document verification (Veriff, Checkr)  
+- Local and remote trials — in all 50 states  
+- Small business–friendly: low overhead, no commitments  
+- Rapid onboarding: often within 48 hours
 
-[Contact us](contact.md) to put your next hire on a trial you can trust.
+---
+
+## A Better Way to Build Teams
+
+Trial hiring gives you insight into:
+
+- Work ethic and dependability  
+- Skills under real-world pressure  
+- Team fit and communication style  
+- Long-term potential
+
+All while CTX-EOR handles the compliance load.
+
+[📅 Start a Trial Hire →](#)
