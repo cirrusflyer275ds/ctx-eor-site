@@ -3,6 +3,7 @@ title: Home
 hide:
   - toc
 ---
+
 # CTX-EOR
 
 ## Trial Your Next Hire. Without the Risk.
@@ -45,8 +46,6 @@ CTX-EOR handles payroll, taxes, compliance, and onboarding — so you can test r
 
 Our services are designed *exclusively* for companies hiring inside the United States.
 
-## Built for U.S. Employers
-
 ✅ IRS & DHS compliant  
 ✅ Background screening via Checkr  
 ✅ Veriff ID verification  
@@ -56,8 +55,8 @@ Our services are designed *exclusively* for companies hiring inside the United S
 
 ---
 
-## Turn Job Offers into Job Tryouts
+## Ready to Test Drive Your Next Hire?
 
-Build a better team by testing real performance — not just résumés.
+Experience how CTX-EOR simplifies compliant trial hiring in the U.S.
 
-[📅 Book Your Free Consultation](#)
+[📅 Book a Demo](contact.md) | [👀 See the Platform](platform.md)
