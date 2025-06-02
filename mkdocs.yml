@@ -28,36 +28,38 @@ palette:
 
 nav:
   - Home: index.md
+  - Request a Demo: demo-request.md
   - Why CTX-EOR: why-ctx.md
   - Employer Overview: employer-overview.md
   - How It Works:
-    - Overview: how-it-works.md
-    - Candidate Onboarding: onboarding-step-2-candidate-onboarding.md
-    - Employment Forms: onboarding-step-3-employment-forms.md
-    - Screening & Background Checks: onboarding-step-4-screening.md
-    - Benefits & Coverage: onboarding-step-5-benefits.md
-    - Emergency Contact: onboarding-step-6-emergency-contact.md
-    - Work Rules & Acknowledgment: onboarding-step-7-work-rules.md
-    - Payroll Preview: onboarding-step-8-payroll-preview.md
-    - Summary & Attestation: onboarding-step-9-summary-attestation.md
-    - Final Confirmation & PDF Preview: onboarding-step-10-final-confirmation.md
+      - Overview: how-it-works.md
+      - Candidate Onboarding: onboarding-step-2-candidate-onboarding.md
+      - Employment Forms: onboarding-step-3-employment-forms.md
+      - Screening & Background Checks: onboarding-step-4-screening.md
+      - Benefits & Coverage: onboarding-step-5-benefits.md
+      - Emergency Contact: onboarding-step-6-emergency-contact.md
+      - Work Rules & Acknowledgment: onboarding-step-7-work-rules.md
+      - Payroll Preview: onboarding-step-8-payroll-preview.md
+      - Summary & Attestation: onboarding-step-9-summary-attestation.md
+      - Final Confirmation & PDF Preview: onboarding-step-10-final-confirmation.md
   - Trial Hiring: trial-hiring.md
-  - Trial Builder: trial-builder.md
+  - Trial Builder:
+      - Overview: trial-builder.md
+      - Step 1: trial-builder-step1.md
+      - Step 2 – Role Template: trial-builder-step2.md
+      - Step 3 – Customize Role: trial-builder-step3.md
+      - Step 4 – Timeline & Manager: trial-builder-step4.md
+      - Step 5 – Worksite & Schedule: trial-builder-step5.md
+      - Step 6 – Screening Requirements: trial-builder-step6.md
+      - Step 7 – Pay & Benefits: trial-builder-step7.md
+      - Step 8 – Employer Cost Estimate: trial-builder-step8.md
+      - Step 9 – Trial Timeline & Check-ins: trial-builder-step9.md
+      - Step 10 – Finalize & Save: trial-builder-step10.md
   - Fine-Tune Production Worker: fine-tune-production-worker.md
   - Evaluation-Checkpoints: evaluation-checkpoints.md
   - Save Trial: save-and-share.md
   - Trial Dashboard: trial-dashboard.md
   - Trial Details: trial-details.md
-  - Trial Builder: trial-builder-step1.md
-  - Role Template: trial-builder-step2.md
-  - Customize Role: trial-builder-step3.md
-  - Set Timeline & Manager: trial-builder-step4.md
-  - Worksite & Schedule: trial-builder-step5.md
-  - Screening & Background Requirements: trial-builder-step6.md
-  - Pay & Benefits Setup: trial-builder-step7.md
-  - Employer Cost Estimate: trial-builder-step8.md
-  - Trial Timeline & Check-ins: trial-builder-step9.md
-  - Finalize & Save: trial-builder-step10.md
   - Structured Evaluation: structured-evaluation.md
   - Compliance: compliance.md
   - The CTX Platform: platform.md
@@ -69,7 +71,6 @@ nav:
   - Pricing: pricing.md
   - Who It’s For: who-its-for.md
   - Industries We Support: industries.md
-  - Proof It Works: proof.md  
-  - Request a Demo: demo-request.md
+  - Proof It Works: proof.md
   - About Us: about.md
   - Contact: contact.md
