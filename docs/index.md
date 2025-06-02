@@ -45,11 +45,14 @@ CTX-EOR handles payroll, taxes, compliance, and onboarding — so you can test r
 
 Our services are designed *exclusively* for companies hiring inside the United States.
 
-✅ IRS & DHS-compliant  
-✅ Checkr background screening  
+## Built for U.S. Employers
+
+✅ IRS & DHS compliant  
+✅ Background screening via Checkr  
 ✅ Veriff ID verification  
-✅ Medical, dental & 401(k) options  
-✅ Small-business friendly
+✅ 401(k), medical, and dental options  
+✅ Small-business friendly  
+✅ No global pricing bloat
 
 ---
 
