@@ -1,51 +1,66 @@
+---
+title: Compliance
+hide:
+  - toc
+---
 
-# Compliance & Peace of Mind
+# Compliance Without Compromise
 
-At CTX-EOR, **compliance isn't an afterthought—it's the foundation**. As your U.S.-based Employer of Record, we take on the legal burden so you don’t have to.
+## Hire Smarter — Stay Safer
+
+When you work with CTX-EOR, you're not operating in a legal gray area. You're fully covered — from day one — with IRS, DHS, DOL, and state-level compliance built in.
+
+No guesswork. No shortcuts. No risky contractor misclassification.
 
 ---
 
-## ✅ We Are the Employer
+## We're the Legal Employer
 
-When we say “Employer of Record,” we mean it:
+As your Employer of Record (EOR), CTX handles:
 
-- We’re the **legal employer** for every worker you trial through CTX-EOR
-- We handle onboarding, tax filings, and labor law compliance
-- You get the flexibility of temporary work—with none of the risk
+✅ Worker classification  
+✅ I-9 verification  
+✅ Federal and state tax withholding  
+✅ Wage and hour compliance  
+✅ Workers' compensation  
+✅ Unemployment insurance  
+✅ ACA and COBRA responsibilities
 
----
-
-## 🛡️ We Don’t Take Chances
-
-You’re trusting us with your workforce. We don’t cut corners.
-
-- **50-state coverage**: Whether it’s California’s overtime laws or New York’s wage notices—we’ve got it handled
-- **Always up-to-date**: We stay ahead of changes in employment law so you’re never exposed
-- **Zero shortcuts**: No grey areas, no creative interpretations—we do it by the book
+You focus on evaluating performance. We handle the rest.
 
 ---
 
-## ⚙️ What We Handle
+## IRS & DHS Aligned — End to End
 
-- Federal & State Withholding
-- I-9 Compliance & E-Verify
-- ACA, EEOC, and IRS reporting
-- Workers’ Comp & Unemployment Insurance
-- Payroll tax filings & garnishments
-- And more...
+Our onboarding flow includes:
 
----
+- 📸 **Remote I-9 Verification** with live video attestation
+- 🧾 **W-4 and State Tax Setup** with validation
+- 🔍 **Background Screening** via Checkr
+- 🛡 **Fraud Detection** with Veriff ID validation
 
-## 🧘 Peace of Mind Built In
-
-Let us handle the back office, so you can focus on performance, team culture, and results.
-
-- No surprise audits
-- No HR liability
-- No stress
+Every worker starts with a clean file — and a clean slate.
 
 ---
 
-### We shoulder the risk.  
-You keep the results.
+## Reduce Risk. Boost Confidence.
 
+You’re not exposing your business to:
+
+- 🚫 Employee misclassification
+- 🚫 Wage claim liability
+- 🚫 Improper termination claims
+- 🚫 Benefit plan violations
+
+We don’t cut corners. We help you sleep better at night.
+
+---
+
+## Built for U.S. Employers
+
+Our system is made specifically for the U.S. regulatory environment. No global bloat, no off-the-shelf forms — just precise, fast, compliant onboarding tailored to your company and your state.
+
+---
+
+[Book a Free Consultation →](#)  
+[Explore How It Works →](how-it-works.md)
