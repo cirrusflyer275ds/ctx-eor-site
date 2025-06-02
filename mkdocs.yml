@@ -28,7 +28,6 @@ palette:
 
 nav:
   - Home: index.md
-  - Request a Demo: demo-request.md
   - Why CTX-EOR: why-ctx.md
   - Employer Overview: employer-overview.md
   - How It Works:
