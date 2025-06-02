@@ -34,9 +34,11 @@ nav:
   - Compliance: compliance.md
   - The CTX Platform: platform.md
   - Services:
+      - Overview: services-overview.md
       - EOR: eor.md
       - Payroll: payroll.md
       - Benefits: benefits.md
+
   - Pricing: pricing.md
   - About Us: about.md
   - Contact: contact.md
