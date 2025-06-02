@@ -1,45 +1,64 @@
-# Structured Evaluation
+---
+title: Structured Evaluation
+hide:
+  - toc
+---
 
-### Build a Better Team—Backed by Real Feedback
+# Evaluate Real Performance — Not Just Potential
 
-At CTX-EOR, we believe hiring isn’t just about filling a seat—it’s about building long-term strength. That’s why every trial includes a structured evaluation process designed to support better decisions.
+## The CTX-EOR Evaluation Advantage
+
+We believe the best hiring decisions come *after* someone starts working — not before. With CTX-EOR, you're not guessing from a résumé or relying on interviews alone. You're observing real work, under real conditions, with real stakes.
 
 ---
 
-## 📋 Manager Insights, Not Just Metrics
+## A 90-Day, Purpose-Built Trial Period
 
-We prompt your team’s managers or direct supervisors with simple, recurring check-ins:
+Every CTX-EOR engagement is backed by a structured 90-day trial designed to help you answer two key questions:
 
-- Is this person **on pace** for success?
-- Are there any **early warning signs**?
-- How well are they adapting to your environment?
+1. **Are they meeting or exceeding expectations?**
+2. **Are they someone you'd hire again — without hesitation?**
 
-This isn’t another HR form. It’s a quick-touch process that keeps quality top of mind, and creates a useful record of early performance.
-
----
-
-## 📆 Designed to Fit Your Workflow
-
-You decide:
-- **Who** gives the feedback
-- **How often** they’re prompted
-- What kind of **rating language** makes sense for your team
-
-Our team configures it with you during setup—and the process runs smoothly in the background.
+You’re not alone in answering those questions. Our system is designed to support you.
 
 ---
 
-## 🎯 Stronger Hires, Better Teams
+## Supervisor Feedback. Standardized. Simple.
 
-The outcome? A consistent framework that gives your hiring decisions real structure. It’s ideal for:
-- Hiring at scale
-- Trying out early-career candidates
-- Giving non-HR managers better support
+Managers and team leads receive periodic prompts throughout the trial:
+
+- 🔁 **30-60-90 Day Check-Ins**
+- 📊 Quick scoring with 1–5 slider
+- 🗣️ Optional context for what’s working — or not
+- ✨ Just one prompt per check-in, auto-generated based on role
+
+No paperwork. No HR bottlenecks. Just consistent, structured signal.
 
 ---
 
-> “They either rise or fall, fast. CTX helped us cut through the noise and see what matters.”
+## Built-in Confidence. And Documentation.
 
-—
+Our system helps employers:
 
-**Structured evaluation isn’t optional—it’s essential.** When everyone sees what good looks like, everyone wins.
+✅ Spot red flags before they become problems  
+✅ Document progress in case of promotion or exit  
+✅ Align decision-making across the team
+
+Whether you're growing fast or being extra careful — structured evaluation gives you the visibility you need to make the right call.
+
+---
+
+## A Better Fit, Backed by Better Data
+
+Structured trial hiring isn't just more fair — it's more effective. You’ll make decisions based on:
+
+- Real deliverables
+- Team fit
+- Communication patterns
+- Reliability and accountability
+- Early signs of excellence
+
+---
+
+[See how it works →](how-it-works.md)  
+[Book a free consultation →](#)
