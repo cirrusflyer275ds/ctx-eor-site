@@ -5,8 +5,6 @@ site_author: CTX-EOR Team
 theme:
   name: material
   features:
-    - navigation.tabs
-    - navigation.top
     - navigation.expand
     - navigation.sections
   logo: logo.png
