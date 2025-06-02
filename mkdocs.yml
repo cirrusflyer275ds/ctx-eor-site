@@ -30,7 +30,8 @@ nav:
   - Employer Overview: employer-overview.md
   - How It Works: how-it-works.md
   - Trial Hiring: trial-hiring.md
-  - Trial Builder: trial-builder.md 
+  - Trial Builder: trial-builder.md
+  - Fine-Tune Production Worker: fine-tune-production-worker.md
   - Structured Evaluation: structured-evaluation.md
   - Compliance: compliance.md
   - The CTX Platform: platform.md
