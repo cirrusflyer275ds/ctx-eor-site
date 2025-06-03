@@ -87,3 +87,9 @@ nav:
       - Log In: customer/login.md
   - CTX-EOR Admin:
       - Log In: staff/login.md
+      - Account Representative Dashboard: staff/account-rep-dashboard.md
+      - Customer Overview: staff/customer-overview.md
+      - Admin Dashboard: staff/admin-dashboard.md
+      - Staff User Management: staff/staff-users.md
+      - Compliance Queue: staff/compliance-queue.md
+
