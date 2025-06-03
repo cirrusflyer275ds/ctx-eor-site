@@ -1,54 +1,22 @@
-# Customer Dashboard
+Customer Dashboard
 
-Welcome to your **CTX-EOR Customer Dashboard**. Here you can monitor all your active trials, review onboarding progress, and take action when needed.
+Welcome to your CTX-EOR dashboard.
 
----
+This is your central hub to manage trials, view onboarding progress, and access account-level settings.
 
-## 🚧 Active Trials
-- View status of each trial (in progress, complete, or awaiting decision)
-- Click to view trial detail pages
-- Export trial performance reports
+Quick Links
 
-[View All Trials](trial-dashboard.md)
+Trial StatusView the current status of each active and pending trial.
 
----
+Onboarding ProgressTrack each candidate's onboarding journey, form submissions, and verification steps.
 
-## 👷 Candidate Onboarding
-- Track candidate progress through onboarding steps
-- Receive alerts for incomplete or delayed steps
-- View documents or provide assistance as needed
+Active WorkersGet a summary of all currently active workers under CTX-EOR.
 
-[Onboarding Overview](how-it-works.md)
+DocumentsAccess signed agreements, tax forms, and compliance documents.
 
----
+NotificationsReview system alerts and pending actions that require your attention.
 
-## ➕ Start a New Trial
-- Launch the Trial Builder to configure a new evaluation
+Account SettingsManage contact details, subscription preferences, and authorized users.
 
-[Start Trial](trial-builder.md)
+More interactive tools will appear here as your team grows. Use the links above to navigate for now.
 
----
-
-## 📥 Saved Trials
-- View jobs and role templates you've saved
-- Duplicate or revise previous setups
-
-[Saved Trials](save-and-share.md)
-
----
-
-## 🧠 Structured Evaluations
-- Review check-ins and performance feedback
-- Input feedback for active trials
-
-[Evaluation Checkpoints](evaluation-checkpoints.md)
-
----
-
-## 💼 Profile & Support
-- Update your company details
-- Contact CTX-EOR support
-
-[Update Profile](contact.md) | [Contact Support](contact.md)
-
----
