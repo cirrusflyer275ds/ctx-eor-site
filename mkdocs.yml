@@ -74,6 +74,7 @@ nav:
   - Contact: contact.md
   - Dashboards:
     - Customer Dashboard: customer/customer-dashboards.md
+    - Customer Dashboard: customer/trial-status.md
     - Staff/Admin Dashboard: staff/staff-dashboards.md
   - Customer Portal:
       - Log In: customer/login.md
