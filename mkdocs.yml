@@ -75,6 +75,7 @@ nav:
   - Dashboards:
       - Customer Dashboard: customer/customer-dashboards.md
       - Trial Status: customer/trial-status.md
+      - Onboarding Progress: customer/onboarding-progress.md
       # Add more customer subpages here as created
       - Staff/Admin Dashboard: staff/staff-dashboards.md
       # Add more staff subpages here as created
