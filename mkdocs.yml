@@ -31,33 +31,33 @@ nav:
   - Employer Overview: employer-overview.md
   - How It Works:
       - Overview: how-it-works.md
-      - Candidate Onboarding: onboarding-step-2-candidate-onboarding.md
-      - Employment Forms: onboarding-step-3-employment-forms.md
-      - Screening & Background Checks: onboarding-step-4-screening.md
-      - Benefits & Coverage: onboarding-step-5-benefits.md
-      - Emergency Contact: onboarding-step-6-emergency-contact.md
-      - Work Rules & Acknowledgment: onboarding-step-7-work-rules.md
-      - Payroll Preview: onboarding-step-8-payroll-preview.md
-      - Summary & Attestation: onboarding-step-9-summary-attestation.md
-      - Final Confirmation & PDF Preview: onboarding-step-10-final-confirmation.md
+      - Candidate Onboarding: onboarding/onboarding-step-2-candidate-onboarding.md
+      - Employment Forms: onboarding/onboarding-step-3-employment-forms.md
+      - Screening & Background Checks: onboarding/onboarding-step-4-screening.md
+      - Benefits & Coverage: onboarding/onboarding-step-5-benefits.md
+      - Emergency Contact: onboarding/onboarding-step-6-emergency-contact.md
+      - Work Rules & Acknowledgment: onboarding/onboarding-step-7-work-rules.md
+      - Payroll Preview: onboarding/onboarding-step-8-payroll-preview.md
+      - Summary & Attestation: onboarding/onboarding-step-9-summary-attestation.md
+      - Final Confirmation & PDF Preview: onboarding/onboarding-step-10-final-confirmation.md
   - Trial Hiring: trial-hiring.md
   - Trial Builder:
-      - Overview: trial-builder.md
-      - Trial Builder: trial-builder-step1.md
-      - Role Template: trial-builder-step2.md
-      - Customize Role: trial-builder-step3.md
-      - Timeline & Manager: trial-builder-step4.md
-      - Worksite & Schedule: trial-builder-step5.md
-      - Screening Requirements: trial-builder-step6.md
-      - Pay & Benefits: trial-builder-step7.md
-      - Employer Cost Estimate: trial-builder-step8.md
-      - Trial Timeline & Check-ins: trial-builder-step9.md
-      - Finalize & Save: trial-builder-step10.md
-  - Fine-Tune Production Worker: fine-tune-production-worker.md
-  - Evaluation-Checkpoints: evaluation-checkpoints.md
-  - Save Trial: save-and-share.md
-  - Trial Dashboard: trial-dashboard.md
-  - Trial Details: trial-details.md
+      - Overview: trial/trial-builder.md
+      - Trial Builder: trial/trial-builder-step1.md
+      - Role Template: trial/trial-builder-step2.md
+      - Customize Role: trial/trial-builder-step3.md
+      - Timeline & Manager: trial/trial-builder-step4.md
+      - Worksite & Schedule: trial/trial-builder-step5.md
+      - Screening Requirements: trial/trial-builder-step6.md
+      - Pay & Benefits: trial/trial-builder-step7.md
+      - Employer Cost Estimate: trial/trial-builder-step8.md
+      - Trial Timeline & Check-ins: trial/trial-builder-step9.md
+      - Finalize & Save: trial/trial-builder-step10.md
+      - Fine-Tune Production Worker: trial/fine-tune-production-worker.md
+      - Evaluation-Checkpoints: trial/evaluation-checkpoints.md
+      - Save Trial: trial/save-and-share.md
+      - Trial Dashboard: trial/trial-dashboard.md
+      - Trial Details: trial/trial-details.md
   - Structured Evaluation: structured-evaluation.md
   - Compliance: compliance.md
   - The CTX Platform: platform.md
