@@ -30,6 +30,7 @@ nav:
   - Why CTX-EOR: why-ctx.md
   - Employer Overview: employer-overview.md
   - Recruiting Services:
+      - Read Me documentation: recruiting/readme.md
       - Overview: recruiting/recruiting-as-a-service.md
       - Smart Recruiting: recruiting/smart-recruiting.md
       - Customer Example: recruiting/customer-walkthrough-example.md
