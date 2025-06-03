@@ -1,24 +1,38 @@
 # Trial Status
 
-View the current state of all job trials underway.
+This page allows customers to view the status of all current and past trials initiated through the CTX-EOR platform.
 
 ---
 
-## Active Trials
+## Current Trials
 
-- List of candidates in active trial periods.
-- Includes start dates, assigned managers, and trial checkpoints.
+Each trial entry should display:
 
-## Pending Trials
-
-- Trials approved but not yet started.
-- Awaiting onboarding or candidate availability.
-
-## Completed Trials
-
-- Past trials with outcome (hired, declined, or extended).
-- Includes evaluation summaries and duration.
+* Job Title
+* Candidate Name
+* Trial Start and End Dates
+* Assigned Manager
+* Current Phase (e.g., onboarding, active, completed)
+* Evaluation Score (if available)
+* Status (Active / Completed / Cancelled)
 
 ---
 
-> Use filters to narrow by location, job title, or trial stage.
+## Filters and Sorting
+
+Customers should be able to:
+
+* Filter by status (Active, Completed, All)
+* Sort by start date, manager, or job title
+* Search by candidate name or job title
+
+---
+
+## Action Links (per trial)
+
+* View Details
+* Update Evaluation Checkpoint
+* Replace Candidate (if trial cancelled or failed)
+* Download Report
+
+> This page will evolve into an interactive dashboard component. Placeholder for now.
