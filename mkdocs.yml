@@ -72,7 +72,7 @@ nav:
   - Proof It Works: proof.md
   - About Us: about.md
   - Contact: contact.md
-    - Customer Portal:
+  - Customer Portal:
       - Log In: customer/login.md
   - CTX-EOR Admin:
       - Log In: staff/login.md
