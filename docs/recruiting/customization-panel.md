@@ -59,4 +59,93 @@ Customization preferences will alter:
 
 > This is a scaffold for customer-facing customization. The backend config mapping will be defined separately.
 
+# Customization Panel
+
+The Customization Panel allows customers to fine-tune how their job ad campaign is built and deployed—without needing to understand recruiting technology or write ad copy manually.
+
+---
+
+## Overview
+
+This panel is designed for customers who want to:
+- Modify the tone or style of ad copy
+- Choose or exclude certain advertising platforms
+- Adjust spending allocations across platforms
+- Provide input on targeting priorities (e.g., speed, diversity, experience)
+
+---
+
+## Key Features
+
+### 1. Voice & Tone Adjustments
+Customers choose how they want to sound to potential applicants:
+- ✅ Culture-forward
+- ✅ Professional & polished
+- ✅ Blue-collar relatable
+- ✅ Urgency-driven
+- ✅ Custom upload / use previous style
+
+*Behind the scenes, a prompt is adjusted for the ad-copy generator.*
+
+---
+
+### 2. Budget Tweaking
+
+Customers see the default recommendation from the Placement Engine, but can override:
+- Total budget
+- Budget by platform (e.g., 40% Facebook, 30% Craigslist)
+- Budget duration (weekly or monthly)
+
+---
+
+### 3. Platform Preferences
+
+Let customers:
+- Exclude platforms they don’t like
+- Prioritize niche boards (e.g., Stack Overflow, Behance, HealthJobs)
+- Set preferred frequency of refresh / repost
+
+---
+
+### 4. Targeting Goals
+
+Sliders and toggle options allow for:
+- ⚖️ Speed vs. cost balance
+- 🎯 Narrow vs. broad targeting
+- 👥 Diversity & inclusion goals (optional)
+
+---
+
+## User Interface Concept
+
+The panel will use:
+- Sliders for tones and targeting weights
+- Editable textboxes for budget
+- Toggle chips for platform inclusion/exclusion
+- LLM-generated explanations of "what this setting does"
+
+---
+
+## Why This Matters
+
+- Increases customer confidence
+- Reduces friction around budget decisions
+- Aligns recruiting with company values and brand voice
+
+---
+
+## Integration with Ad Generator
+
+The output from this panel feeds directly into the:
+- Ad-Copy Generator prompt structure
+- Placement Engine targeting strategy
+- Campaign preview shown to customer
+
+---
+
+> This panel turns complex campaign logic into simple, understandable choices. Customers stay in control without needing to learn recruiting software.
+
+---
+
+File location: `docs/recruiting/customization-panel.md`
 
