@@ -88,3 +88,86 @@ Each walkthrough follows the same structure:
 
 > Add more examples for different industries, job types, and customer sizes as needed.
 
+# Campaign Walkthroughs
+
+This module provides example workflows that show how CTX-EOR builds and launches a recruiting campaign from minimal input. These scenarios illustrate how customers interact with the platform and what happens behind the scenes.
+
+---
+
+## Walkthrough 1: Manufacturing Role in Rural Area
+
+### Customer Inputs
+- NAICS: 332999 (Misc. Fabricated Metal Product Mfg.)
+- Location: Rural Indiana
+- Title: Machine Operator
+- Budget: $500
+- Hiring goal: Fast turnaround
+
+### System Actions
+1. Maps NAICS → common SOCs → recommends "51-4041 Machinists"
+2. Pulls O*NET attributes and demographics
+3. Uses rural modifiers → platform focus on Craigslist, Facebook Local
+4. Auto-generates ad copy tuned to urgency + plainspoken voice
+5. Shows campaign preview with editable platform allocations
+6. Launches with budget tracking and real-time alerts
+
+---
+
+## Walkthrough 2: Entry-Level Tech Role in Urban Market
+
+### Customer Inputs
+- NAICS: 541512 (Computer Systems Design Services)
+- Location: San Francisco, CA
+- Title: Junior Web Developer
+- Budget: $1000
+- Hiring goal: Culture-fit emphasis
+
+### System Actions
+1. Recommends SOC 15-1254 (Web Developers)
+2. Maps demographics to suggest inclusive, benefit-focused copy
+3. Chooses platforms: LinkedIn, StackOverflow, Google Jobs
+4. Includes diversity language from customer settings
+5. Provides multiple tone previews for review
+6. Customer selects final version and launches
+
+---
+
+## Walkthrough 3: Healthcare Employer with Multiple Roles
+
+### Customer Inputs
+- NAICS: 621610 (Home Healthcare Services)
+- Location: Atlanta Metro
+- Title(s): CNA, Home Health Aide
+- Budget: $2000 across roles
+
+### System Actions
+1. Breaks out by role → assigns SOCs separately
+2. Auto-splits budget: 60% CNA, 40% Aide
+3. Uses separate tone: compassionate for Aide, professional for CNA
+4. Recommends staggered campaign launch for budget pacing
+5. Provides real-time dashboard to monitor applicants per role
+
+---
+
+## Highlights
+
+- **NAICS → SOC mapping** enables industry-aware defaults
+- **Demographic overlays** shape tone and channel selection
+- **Customization panel** lets customers override or fine-tune
+- **Customer portal** tracks all steps and results in real time
+
+---
+
+## Future Enhancements
+
+- Show estimated applicant volume by platform
+- Let customer simulate results with “Preview Before Launch”
+- Add side-by-side A/B comparison of ad copy performance
+
+---
+
+> Walkthroughs help customers understand how little they need to provide — and how much value they get from the platform’s automation and intelligence.
+
+---
+
+File location: `docs/recruiting/customer-walkthroughs.md`
