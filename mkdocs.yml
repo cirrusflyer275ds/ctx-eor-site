@@ -31,11 +31,12 @@ nav:
   - Employer Overview: employer-overview.md
   - Recruiting Services:
       - Read Me documentation: recruiting/readme.md
+      - Platform Requirements: recruiting/platform-requirements.md
       - Overview: recruiting/recruiting-as-a-service.md
       - Smart Recruiting: recruiting/smart-recruiting.md
       - Customer Example: recruiting/customer-walkthrough-example.md
       - Ad Generator: recruiting/ad-copy-generator.md
-      - Campaign Generator: recruiting/campaign-placement.md
+      - Campaign Placement: recruiting/campaign-placement.md
       - Customer Customization: recruiting/customization-panel.md
       - Data: recruiting/data-strategy.md
   - How It Works:
