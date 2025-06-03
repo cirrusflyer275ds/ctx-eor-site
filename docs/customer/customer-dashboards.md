@@ -1,22 +1,31 @@
-Customer Dashboard
+# Customer Dashboard
 
 Welcome to your CTX-EOR dashboard.
 
 This is your central hub to manage trials, view onboarding progress, and access account-level settings.
 
-Quick Links
+---
 
-Trial StatusView the current status of each active and pending trial.
+## Quick Links
 
-Onboarding ProgressTrack each candidate's onboarding journey, form submissions, and verification steps.
+* [Trial Status](trial-status.md)
+  View the current status of each active and pending trial.
 
-Active WorkersGet a summary of all currently active workers under CTX-EOR.
+* [Onboarding Progress](onboarding-progress.md)
+  Track each candidate's onboarding journey, form submissions, and verification steps.
 
-DocumentsAccess signed agreements, tax forms, and compliance documents.
+* [Active Workers](active-workers.md)
+  Get a summary of all currently active workers under CTX-EOR.
 
-NotificationsReview system alerts and pending actions that require your attention.
+* [Documents](documents.md)
+  Access signed agreements, tax forms, and compliance documents.
 
-Account SettingsManage contact details, subscription preferences, and authorized users.
+* [Notifications](notifications.md)
+  Review system alerts and pending actions that require your attention.
 
-More interactive tools will appear here as your team grows. Use the links above to navigate for now.
+* [Account Settings](account-settings.md)
+  Manage contact details, subscription preferences, and authorized users.
 
+---
+
+> More interactive tools will appear here as your team grows. Use the links above to navigate for now.
