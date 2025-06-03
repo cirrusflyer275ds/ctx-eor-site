@@ -73,11 +73,12 @@ nav:
   - About Us: about.md
   - Contact: contact.md
   - Dashboards:
-    - Customer Dashboard: customer/customer-dashboards.md
-    - Customer Dashboard: customer/trial-status.md
-    - Staff/Admin Dashboard: staff/staff-dashboards.md
+      - Customer Dashboard: customer/customer-dashboards.md
+      - Trial Status: customer/trial-status.md
+      # Add more customer subpages here as created
+      - Staff/Admin Dashboard: staff/staff-dashboards.md
+      # Add more staff subpages here as created
   - Customer Portal:
       - Log In: customer/login.md
   - CTX-EOR Admin:
       - Log In: staff/login.md
-
