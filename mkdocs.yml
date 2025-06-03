@@ -73,8 +73,8 @@ nav:
   - About Us: about.md
   - Contact: contact.md
   - Dashboards:
-    - Customer Dashboard: customer-staff-dashboards.md
-    - Staff/Admin Dashboard: customer-staff-dashboards.md
+    - Customer Dashboard: customer-dashboards.md
+    - Staff/Admin Dashboard: staff-dashboards.md
   - Customer Portal:
       - Log In: customer/login.md
   - CTX-EOR Admin:
