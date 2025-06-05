@@ -4,7 +4,7 @@ hide:
   - toc
 ---
 
-# About CTX-EOR
+# About Hireway
 
 Hiring has changed.  
 We're here to help you change with it.
@@ -13,7 +13,7 @@ We're here to help you change with it.
 
 ## Built for the Future of Work
 
-CTX-EOR was founded to help U.S. companies hire better — faster, smarter, and with less risk.
+Hireway was founded to help U.S. companies hire better — faster, smarter, and with less risk.
 
 In a market flooded with global providers, we focus where it matters:  
 **North American employers who need real results.**
@@ -31,13 +31,13 @@ We're a compliance engine, a payroll platform, and a hiring ally — rolled into
 - Companies exploring **fractional or phased hiring**
 - Managers who want to evaluate performance before extending a full offer
 
-Whether you're hiring your 2nd team member or your 20th, CTX-EOR gives you the structure to do it right.
+Whether you're hiring your 2nd team member or your 20th, Hireway gives you the structure to do it right.
 
 ---
 
 ## What Makes Us Different
 
-| 💡 Most EORs | ✅ CTX-EOR |
+| 💡 Most EORs | ✅ Hireway |
 |-------------|------------|
 | Built for global compliance | Built for North American hiring |
 | Focused on full-time roles | Built for **trial and phased** hiring |
@@ -49,7 +49,7 @@ Whether you're hiring your 2nd team member or your 20th, CTX-EOR gives you the s
 
 ## We Handle the Risk — So You Can Focus on Fit
 
-Every candidate is employed by CTX-EOR during their trial period.  
+Every candidate is employed by Hireway during their trial period.  
 We take on:
 
 - Legal employer status  
