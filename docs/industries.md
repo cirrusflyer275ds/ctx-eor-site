@@ -6,7 +6,7 @@ hide:
 
 # Industries We Support
 
-CTX-EOR is designed to flex across a wide range of U.S.-based industries — especially those where the **cost of a bad hire is high** and the **need for compliant onboarding is critical**.
+Hireway is designed to flex across a wide range of U.S.-based industries — especially those where the **cost of a bad hire is high** and the **need for compliant onboarding is critical**.
 
 Explore how we help employers like you hire smarter:
 
@@ -16,7 +16,7 @@ Explore how we help employers like you hire smarter:
 
 **Need reps who can hit the ground running?**
 
-Let them prove it before you commit. CTX-EOR lets you legally “test drive” SDRs, Account Managers, and Support Agents.
+Let them prove it before you commit. Hireway lets you legally “test drive” SDRs, Account Managers, and Support Agents.
 
 ✅ I-9 verification and remote onboarding  
 ✅ Time-tracked performance from day one  
@@ -86,4 +86,4 @@ From admin assistants to community managers — if it’s **W-2 trial employment
 
 Not sure if we support your specific use case?
 
-[📅 Book a Free Consultation](contact.md) and we’ll show you how CTX-EOR works in your industry.
+[📅 Book a Free Consultation](contact.md) and we’ll show you how Hireway works in your industry.
