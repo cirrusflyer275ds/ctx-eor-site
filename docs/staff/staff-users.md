@@ -1,6 +1,6 @@
 # Staff User Management
 
-Manage CTX-EOR internal user accounts.
+Manage Hireway internal user accounts.
 
 ---
 
