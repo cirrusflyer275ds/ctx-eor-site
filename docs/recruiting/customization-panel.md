@@ -1,6 +1,6 @@
 # Customization Panel
 
-This module outlines how CTX-EOR customers can fine-tune their recruiting campaigns through a guided customization interface.
+This module outlines how Hireway customers can fine-tune their recruiting campaigns through a guided customization interface.
 
 ---
 
