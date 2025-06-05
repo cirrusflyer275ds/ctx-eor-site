@@ -3,7 +3,7 @@
 
 ## Simplify Hiring. Stay Compliant. Scale Confidently.
 
-CTX-EOR specializes in **U.S.-based Employer of Record (EOR)** services, enabling startups, growing companies, and enterprise teams to onboard and manage workers without legal or operational headaches.
+Hireway specializes in **U.S.-based Employer of Record (EOR)** services, enabling startups, growing companies, and enterprise teams to onboard and manage workers without legal or operational headaches.
 
 ---
 
@@ -31,7 +31,7 @@ We’re the legal employer — we absorb the risk, manage HR, and ensure local, 
 
 ## Why CTX-EOR?
 
-Unlike global EOR platforms, **CTX-EOR is 100% focused on the U.S. market** — built by staffing veterans who’ve supported thousands of clients and hundreds of thousands of workers across:
+Unlike global EOR platforms, **Hireway is 100% focused on the U.S. market** — built by staffing veterans who’ve supported thousands of clients and hundreds of thousands of workers across:
 
 - 🏭 Light Industrial
 - 🛠 Skilled Trades
@@ -44,7 +44,7 @@ We offer **flexible trial-based hiring**, so your team can **test performance be
 
 ## Your Workforce, Our Infrastructure
 
-CTX-EOR lets you scale up or down without legal burden or operational lift. You stay in control of your team — we handle the paperwork, taxes, and compliance.
+Hireway lets you scale up or down without legal burden or operational lift. You stay in control of your team — we handle the paperwork, taxes, and compliance.
 
 ---
 
@@ -53,7 +53,7 @@ CTX-EOR lets you scale up or down without legal burden or operational lift. You 
 Ready to de-risk your next hire?
 
 📞 Call us: (800) 555-0199  
-📧 hello@ctx-eor.com
+📧 hello@Hireway.com
 
 Or [Request a Demo](#)
 
