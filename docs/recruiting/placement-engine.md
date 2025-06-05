@@ -1,6 +1,6 @@
 # Placement Engine
 
-This module outlines how CTX-EOR automatically recommends and manages job ad placements for customers based on role type, geography, budget, and campaign strategy.
+This module outlines how Hireway automatically recommends and manages job ad placements for customers based on role type, geography, budget, and campaign strategy.
 
 ---
 
