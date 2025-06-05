@@ -4,7 +4,7 @@ hide:
   - toc
 ---
 
-# What CTX-EOR Does (and Doesn’t) Do
+# What Hireway Does (and Doesn’t) Do
 
 We’re an **Employer of Record (EOR)** — purpose-built for **U.S.-based trial hiring**.  
 We take on the legal, compliance, and administrative burdens so you don’t have to.
@@ -63,7 +63,7 @@ We do not:
 
 ## Summary: We Handle the Paperwork, You Handle the People
 
-CTX-EOR gives you:
+Hireway gives you:
 
 - Full **compliance and legal coverage**
 - Streamlined **payroll and benefits**
