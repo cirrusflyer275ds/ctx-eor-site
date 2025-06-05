@@ -4,11 +4,11 @@ hide:
   - toc
 ---
 
-# The CTX-EOR Platform
+# The Hireway Platform
 
 ## Smart Infrastructure for Modern Hiring
 
-CTX-EOR is more than an Employer of Record. It’s a complete platform purpose-built to support trial hiring — from first invite to final decision.
+Hireway is more than an Employer of Record. It’s a complete platform purpose-built to support trial hiring — from first invite to final decision.
 
 We streamline every step of the evaluation process while protecting you from risk. You stay focused on performance. We handle everything else.
 
@@ -55,7 +55,7 @@ From day one, we coordinate all the moving parts:
 - You define the work  
 - You make the final call
 
-CTX-EOR exists to support your hiring process — not to replace it.
+Hireway exists to support your hiring process — not to replace it.
 
 ---
 
