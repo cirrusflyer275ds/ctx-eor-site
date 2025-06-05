@@ -3,7 +3,7 @@
 
 ## Pay Your People. Stay Compliant. We Handle It All.
 
-With CTX-EOR, payroll becomes a powerful advantage. We manage every aspect of your U.S. payroll operation — with built-in tax compliance, direct deposits, and transparent reporting.
+With Hireway, payroll becomes a powerful advantage. We manage every aspect of your U.S. payroll operation — with built-in tax compliance, direct deposits, and transparent reporting.
 
 ---
 
@@ -44,7 +44,7 @@ We keep you **legally compliant and operationally simple**.
 
 ## Who Is It For?
 
-Whether you’re a startup hiring your first U.S. worker or a mature company looking to simplify payroll operations — CTX-EOR is your full-service solution.
+Whether you’re a startup hiring your first U.S. worker or a mature company looking to simplify payroll operations — Hireway is your full-service solution.
 
 ---
 
@@ -53,5 +53,5 @@ Whether you’re a startup hiring your first U.S. worker or a mature company loo
 Let’s get payroll off your plate.
 
 📞 Call us: (800) 555-0199  
-📧 hello@ctx-eor.com  
+📧 hello@Hireway.com  
 Or [Schedule a Demo](#)
