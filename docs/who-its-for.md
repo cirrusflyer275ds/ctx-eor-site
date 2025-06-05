@@ -6,14 +6,14 @@ hide:
 
 # Who We Serve
 
-**CTX-EOR** is purpose-built for one thing:  
+**Hireway** is purpose-built for one thing:  
 **Helping U.S. employers trial talent before committing to a full hire.**
 
 ---
 
-## 👥 Ideal for These Scenarios
+## Ideal for These Scenarios
 
-| Use Case | Why CTX-EOR Works |
+| Use Case | Why Hireway Works |
 |----------|-------------------|
 | **Startups & Growth-Stage Teams** | You need to move fast — but you can’t afford a bad hire. Trial work shows you who’s ready to go. |
 | **Companies without HR teams** | We handle onboarding, payroll, and compliance so you don’t have to. |
@@ -35,7 +35,7 @@ We focus on **what we’re great at** — and that means saying no to:
 
 ---
 
-## 🧠 Common Roles Trialed with CTX-EOR
+## Common Roles Trialed with Hireway
 
 - Customer Support  
 - Sales Development (SDRs)  
@@ -50,14 +50,14 @@ We focus on **what we’re great at** — and that means saying no to:
 
 ---
 
-## 🗺️ We Cover All 50 U.S. States
+## We Cover All 50 U.S. States
 
 Hire in California, Texas, Florida, or New York — or all of them.  
 We handle the paperwork. You get the results.
 
 ---
 
-## 💡 Not Sure If This Is Right for You?
+## Not Sure If This Is Right for You?
 
 Let’s talk. We’ll tell you honestly if we’re not the best fit.
 
