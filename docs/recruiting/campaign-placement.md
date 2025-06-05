@@ -1,6 +1,6 @@
 # Campaign Placement
 
-This section outlines how CTX-EOR will determine where and how recruiting ads are placed based on job, industry, and geography-specific data.
+This section outlines how Hireway will determine where and how recruiting ads are placed based on job, industry, and geography-specific data.
 
 ---
 
