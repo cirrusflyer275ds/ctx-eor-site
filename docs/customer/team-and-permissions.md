@@ -1,6 +1,6 @@
 # Team & Permissions
 
-Manage who at your company can access, edit, or monitor trials and onboarding activity within CTX-EOR.
+Manage who at your company can access, edit, or monitor trials and onboarding activity within Hireway.
 
 ---
 
