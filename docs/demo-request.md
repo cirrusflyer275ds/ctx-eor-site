@@ -4,18 +4,18 @@ hide:
   - toc
 ---
 
-# 📅 Book Your Free CTX-EOR Demo
+# 📅 Book Your Free Hireway Demo
 
 Discover how **Trial Hiring** and **Employer of Record** services can simplify your hiring — and help you build stronger teams.
 
-> Whether you're hiring for a single role or scaling a national workforce, CTX-EOR makes it easy to try candidates on the job — with full compliance, payroll, and onboarding support.
+> Whether you're hiring for a single role or scaling a national workforce, Hireway makes it easy to try candidates on the job — with full compliance, payroll, and onboarding support.
 
 ---
 
 ## 🚀 What to Expect
 
 ✅ A 15–30 minute video call  
-✅ Tailored walkthrough of how CTX-EOR works  
+✅ Tailored walkthrough of how Hireway works  
 ✅ See how your trial job setup works in real time  
 ✅ Bring your own job — we’ll show you how it runs  
 ✅ No pressure. No commitment.
