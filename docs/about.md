@@ -63,7 +63,7 @@ You focus on results. We handle the rest.
 
 ---
 
-## Why “CTX”?
+## Why “Hireway”?
 
 Hireway stands for **Context**. Because that's what real hiring requires.  
 Not just résumés or interviews — but **real-world performance** in your real-world context.
