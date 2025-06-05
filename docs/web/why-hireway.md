@@ -1,4 +1,4 @@
-# Why CTX-EOR?
+# Why Hireway?
 
 ## Smart Hiring, Built for U.S. Teams
 
