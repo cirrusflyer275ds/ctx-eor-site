@@ -1,6 +1,6 @@
 # Account Representative Dashboard
 
-Welcome to the internal dashboard for CTX-EOR account reps. This area displays trial activity, onboarding progress, and customer interactions.
+Welcome to the internal dashboard for Hireway account reps. This area displays trial activity, onboarding progress, and customer interactions.
 
 ---
 
