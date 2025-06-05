@@ -8,7 +8,7 @@ hide:
 
 ## Trial Hiring, Fully Covered
 
-CTX-EOR exists to solve one critical problem: **How can you try a new hire before committing — without exposing your business to compliance risk?**
+Hireway exists to solve one critical problem: **How can you try a new hire before committing — without exposing your business to compliance risk?**
 
 We’re the answer.  
 You focus on evaluating fit.  
@@ -18,7 +18,7 @@ We handle everything else.
 
 ## What We Handle
 
-CTX-EOR is the **legal employer** of record for your trial-period hires. That means we’re responsible for:
+Hireway is the **legal employer** of record for your trial-period hires. That means we’re responsible for:
 
 - ✅ Worker classification (W-2, not 1099)
 - ✅ Federal & state tax compliance
@@ -44,9 +44,9 @@ We simply make sure everything is **legal**, **compliant**, and **easy** during 
 
 ---
 
-## Why Employers Choose CTX-EOR
+## Why Employers Choose Hireway
 
-| ❌ Traditional Hiring | ✅ CTX-EOR |
+| ❌ Traditional Hiring | ✅ Hireway |
 |----------------------|-----------|
 | Resume-based guesswork | Work sample evaluations |
 | Risky pre-hire decisions | Compliant trial hiring |
