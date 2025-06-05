@@ -1,6 +1,6 @@
 # Staff/Admin Dashboard
 
-Internal access portal for CTX-EOR staff to monitor, support, and manage platform activity across all trials and accounts.
+Internal access portal for Hireway staff to monitor, support, and manage platform activity across all trials and accounts.
 
 ---
 
