@@ -6,7 +6,7 @@ hide:
 
 # 🎯 Smart. Simple. Stress-Free.
 
-CTX-EOR provides a **fully digital onboarding experience** built for both compliance and ease — all customized to the job trial format.
+Hireway provides a **fully digital onboarding experience** built for both compliance and ease — all customized to the job trial format.
 
 > From ID verification to direct deposit, our step-by-step flow ensures your candidate is set up and ready to work — fast.
 
@@ -49,7 +49,7 @@ Every candidate receives a unique invite link and is guided through:
 - **Data Security** with full audit trail  
 - **Mobile-responsive** UI for phone-first completion
 
-> All data is stored securely and reviewed by CTX-EOR before a candidate is cleared to start.
+> All data is stored securely and reviewed by Hireway before a candidate is cleared to start.
 
 ---
 
