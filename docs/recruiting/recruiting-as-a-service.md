@@ -1,6 +1,6 @@
 # Recruiting as a Service
 
-Our Recruiting as a Service (RaaS) model transforms how employers identify, assess, and trial candidates. Rather than rely on outdated staffing paradigms, CTX-EOR builds a fully integrated, data-driven recruiting experience that aligns with each customer’s industry, geography, and hiring goals.
+Our Recruiting as a Service (RaaS) model transforms how employers identify, assess, and trial candidates. Rather than rely on outdated staffing paradigms, Hireway builds a fully integrated, data-driven recruiting experience that aligns with each customer’s industry, geography, and hiring goals.
 
 ---
 
@@ -55,7 +55,7 @@ Our Recruiting as a Service (RaaS) model transforms how employers identify, asse
 
 * This workflow provides clarity, consistency, and candidate data from Day 1.
 * Employers control their inputs (role definition, dealbreakers, tone).
-* CTX-EOR manages sourcing, evaluation, and presentation.
+* Hireway manages sourcing, evaluation, and presentation.
 * Customers never have to guess about a candidate's fit—they see and decide.
 
 This service is especially useful for companies that want:
