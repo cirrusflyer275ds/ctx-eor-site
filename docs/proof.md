@@ -6,7 +6,7 @@ hide:
 
 # Proof It Works
 
-At CTX-EOR, we believe the best hiring decisions come from real-world performance — not guesswork. That belief has helped thousands of employers run smarter, safer, and faster trial hiring campaigns across the U.S.
+At Hireway, we believe the best hiring decisions come from real-world performance — not guesswork. That belief has helped thousands of employers run smarter, safer, and faster trial hiring campaigns across the U.S.
 
 ---
 
@@ -24,7 +24,7 @@ At CTX-EOR, we believe the best hiring decisions come from real-world performanc
 
 ## 💬 What Employers Say
 
-> “CTX-EOR gave us instant peace of mind. We hired three people through the trial process — and kept all three. Zero paperwork on our end.”  
+> “Hireway gave us instant peace of mind. We hired three people through the trial process — and kept all three. Zero paperwork on our end.”  
 > — **Olivia P., Head of Operations, SaaS startup**
 
 > “We no longer guess when hiring warehouse associates. They trial with us first. CTX handles everything else.”  
@@ -37,7 +37,7 @@ At CTX-EOR, we believe the best hiring decisions come from real-world performanc
 
 ## 🛡️ Trusted by High-Stakes Employers
 
-CTX-EOR is used in roles where **mistakes are costly** and **first impressions matter** — from inside sales teams to distribution hubs, from remote engineers to healthcare support.
+Hireway is used in roles where **mistakes are costly** and **first impressions matter** — from inside sales teams to distribution hubs, from remote engineers to healthcare support.
 
 > If your business runs better with **proof over promises**, we’re your team.
 
