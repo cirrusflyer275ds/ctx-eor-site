@@ -1,6 +1,6 @@
 # Customer Dashboard
 
-Welcome to your **CTX-EOR Customer Dashboard**. Here you can monitor all your active trials, review onboarding progress, and take action when needed.
+Welcome to your **Hireway Customer Dashboard**. Here you can monitor all your active trials, review onboarding progress, and take action when needed.
 
 ---
 
@@ -47,7 +47,7 @@ Welcome to your **CTX-EOR Customer Dashboard**. Here you can monitor all your ac
 
 ## 💼 Profile & Support
 - Update your company details
-- Contact CTX-EOR support
+- Contact Hireway support
 
 [Update Profile](contact.md) | [Contact Support](contact.md)
 
@@ -55,7 +55,7 @@ Welcome to your **CTX-EOR Customer Dashboard**. Here you can monitor all your ac
 
 # Staff/Admin Dashboard
 
-Welcome to the **CTX-EOR Admin Panel**. Monitor system-wide activity, provide support, and oversee customer trials.
+Welcome to the **Hireway Admin Panel**. Monitor system-wide activity, provide support, and oversee customer trials.
 
 ---
 
