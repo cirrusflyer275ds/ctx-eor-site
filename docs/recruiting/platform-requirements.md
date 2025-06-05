@@ -1,6 +1,6 @@
 # Platform Recommendations
 
-This document outlines how CTX-EOR recommends the best job advertisement platforms for each hiring campaign by leveraging structured data inputs and contextual logic.
+This document outlines how Hireway recommends the best job advertisement platforms for each hiring campaign by leveraging structured data inputs and contextual logic.
 
 ---
 
