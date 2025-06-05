@@ -4,7 +4,7 @@ hide:
   - toc
 ---
 
-# Log in to Your CTX-EOR Dashboard
+# Log in to Your Hireway Dashboard
 
 Welcome back. Log in to manage your trial hiring, view active evaluations, or track payroll.
 
@@ -17,7 +17,7 @@ hide:
   - toc
 ---
 
-# Log in to Your CTX-EOR Dashboard
+# Log in to Your Hireway Dashboard
 
 Welcome back! Use your credentials to access saved trials, dashboards, and evaluation tools.
 
