@@ -1,6 +1,6 @@
 # Account Settings
 
-Manage your organization’s core CTX-EOR settings, billing information, notification preferences, and integrations.
+Manage your organization’s core Hireway settings, billing information, notification preferences, and integrations.
 
 ---
 
