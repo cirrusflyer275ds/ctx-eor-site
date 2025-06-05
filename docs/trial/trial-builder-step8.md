@@ -17,10 +17,10 @@ Preview your all-in cost per worker during the trial period.
 |----------|------------------|
 | Base Wages | $1,200 |
 | Payroll Taxes | $102 |
-| Workers' Comp | $35 |
+| Workers' Comp | $135 |
 | Benefits (Medical + Dental) | $110 |
-| CTX-EOR Admin Fee | $95 |
-| **Total Weekly Cost** | **$1,542** |
+| Hireway Admin Fee | $95 |
+| **Total Weekly Cost** | **$1,642** |
 
 > Numbers are illustrative — exact amounts depend on pay rate, state, and benefit selection.
 
