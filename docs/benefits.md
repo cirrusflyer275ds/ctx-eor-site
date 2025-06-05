@@ -29,7 +29,7 @@ Whether the trial lasts a few weeks or a few months, your team members get:
 You don’t need to choose plans, negotiate rates, or figure out compliance — we’ve already done it:
 
 - Plans from **top-rated national carriers**
-- Fully managed by CTX-EOR
+- Fully managed by Hireway
 - No setup or admin burden for your team
 - Employees onboard through our digital portal
 
@@ -38,7 +38,7 @@ You don’t need to choose plans, negotiate rates, or figure out compliance — 
 ## Designed for Small & Growing Teams
 
 Most benefit providers won’t talk to you unless you have 10+ employees.  
-We built CTX-EOR to support companies with:
+We built Hireway to support companies with:
 
 - **1–25 team members**
 - **Non-standard work trials**
