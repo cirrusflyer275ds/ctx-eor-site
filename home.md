@@ -1,7 +1,7 @@
 
 # Trial Your Next Hire. Without the Risk.
 
-CTX-EOR handles payroll, taxes, compliance, and onboarding — so you can test real performance before committing to a full hire.
+Hireway handles payroll, taxes, compliance, and onboarding — so you can test real performance before committing to a full hire.
 
 [Book a Demo](#) | [See How It Works](how-it-works.md)
 
@@ -9,7 +9,7 @@ CTX-EOR handles payroll, taxes, compliance, and onboarding — so you can test r
 
 ## Hiring Shouldn’t Feel Like a Gamble
 
-| 🚨 The Problem | 🛠️ The CTX-EOR Fix | ✅ The Outcome |
+| 🚨 The Problem | 🛠️ The Hireway Fix | ✅ The Outcome |
 |---------------|--------------------|----------------|
 | Mis-hires cost money and momentum | Trial hiring with full compliance | Better team fits, faster decisions |
 | HR complexity drains your focus | We handle payroll, I-9s, taxes, benefits | You focus on team performance |
@@ -17,7 +17,7 @@ CTX-EOR handles payroll, taxes, compliance, and onboarding — so you can test r
 
 ---
 
-## How Trial Hiring with CTX-EOR Works
+## How Trial Hiring with Hireway Works
 
 1. **You select the candidate**  
    We’ll help with screening if you want it.
