@@ -1,6 +1,6 @@
 # Customer Dashboard
 
-Welcome to your CTX-EOR dashboard.
+Welcome to your Hireway dashboard.
 
 This is your central hub to manage trials, view onboarding progress, and access account-level settings.
 
