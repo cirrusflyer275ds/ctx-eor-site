@@ -1,6 +1,6 @@
 # Smart Recruiting Overview
 
-This section introduces the CTX-EOR Smart Recruiting system. Built on government datasets and AI models, this platform enables highly customized recruitment advertising, job targeting, and candidate screening.
+This section introduces the Hireway Smart Recruiting system. Built on government datasets and AI models, this platform enables highly customized recruitment advertising, job targeting, and candidate screening.
 
 ---
 
