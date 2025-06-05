@@ -1,6 +1,6 @@
 # Trial Status
 
-This page allows customers to view the status of all current and past trials initiated through the CTX-EOR platform.
+This page allows customers to view the status of all current and past trials initiated through the Hireway platform.
 
 ---
 
