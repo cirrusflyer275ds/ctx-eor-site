@@ -20,4 +20,4 @@ This dashboard allows platform admins to manage users, platform settings, and co
 - Trigger compliance alerts
 - Review platform logs
 
-> Intended for internal CTX-EOR admin use only.
+> Intended for internal Hireway admin use only.
