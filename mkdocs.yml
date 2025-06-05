@@ -26,7 +26,6 @@ palette:
 
 nav:
   - Home: index.md
-  - Request a Demo: demo-request.md
   - Why CTX-EOR: why-ctx.md
   - Employer Overview: employer-overview.md
   - Recruiting Services:
@@ -82,23 +81,22 @@ nav:
   - Who It’s For: who-its-for.md
   - Industries We Support: industries.md
   - Proof It Works: proof.md
+  - Request a Demo: demo-request.md
   - About Us: about.md
   - Contact: contact.md
   - Dashboards:
+    - Customer Portal:
+      - Log In: customer/login.md
       - Customer Dashboard: customer/customer-dashboards.md
+      - Account Settings: customer/account-settings.md
+      - Team & Permissions: customer/team-and-permissions.md
       - Trial Status: customer/trial-status.md
       - Onboarding Progress: customer/onboarding-progress.md
       - Trial Activity Log: customer/trial-activity-log.md
       - Documents & Forms: customer/documents-and-forms.md
-      - Team & Permissions: customer/team-and-permissions.md
-      - Account Settings: customer/account-settings.md
-      # Add more customer subpages here as created
-      - Staff/Admin Dashboard: staff/staff-dashboards.md
-      # Add more staff subpages here as created
-  - Customer Portal:
-      - Log In: customer/login.md
   - CTX-EOR Admin:
       - Log In: staff/login.md
+      - Staff/Admin Dashboard: staff/staff-dashboards.md
       - Account Representative Dashboard: staff/account-rep-dashboard.md
       - Customer Overview: staff/customer-overview.md
       - Admin Dashboard: staff/admin-dashboard.md
