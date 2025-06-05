@@ -25,9 +25,26 @@ palette:
       name: Switch to light mode
 
 nav:
-  - Home: index.md
-  - Why CTX-EOR: why-ctx.md
-  - Employer Overview: employer-overview.md
+  - Web:
+      - Home: web/index.md
+      - Why Hireway: web/why-hireway.md
+      - Employer Overview: web/employer-overview.md
+      - Trial Hiring: web/trial-hiring.md
+      - Structured Evaluation: web/structured-evaluation.md
+      - Compliance: web/compliance.md
+      - The CTX Platform: web/platform.md
+      - Pricing: web/pricing.md
+      - Who It’s For: web/who-its-for.md
+      - Industries We Support: web/industries.md
+      - Proof It Works: web/proof.md
+      - Request a Demo: web/demo-request.md
+      - About Us: web/about.md
+      - Contact: web/contact.md
+      - Services:
+        - Overview: web/services-overview.md
+        - EOR: web/eor.md
+        - Payroll: web/payroll.md
+        - Benefits: web/benefits.md     
   - Recruiting Services:
       - Read Me documentation: recruiting/readme.md
       - Platform Requirements: recruiting/platform-requirements.md
@@ -50,7 +67,6 @@ nav:
       - Payroll Preview: onboarding/onboarding-step-8-payroll-preview.md
       - Summary & Attestation: onboarding/onboarding-step-9-summary-attestation.md
       - Final Confirmation & PDF Preview: onboarding/onboarding-step-10-final-confirmation.md
-  - Trial Hiring: trial-hiring.md
   - Trial Builder:
       - Overview: trial/trial-builder.md
       - Trial Builder: trial/trial-builder-step1.md
@@ -68,22 +84,10 @@ nav:
       - Save Trial: trial/save-and-share.md
       - Trial Dashboard: trial/trial-dashboard.md
       - Trial Details: trial/trial-details.md
-  - Structured Evaluation: structured-evaluation.md
-  - Compliance: compliance.md
-  - The CTX Platform: platform.md
+
   
-  - Services:
-      - Overview: services-overview.md
-      - EOR: eor.md
-      - Payroll: payroll.md
-      - Benefits: benefits.md
-  - Pricing: pricing.md
-  - Who It’s For: who-its-for.md
-  - Industries We Support: industries.md
-  - Proof It Works: proof.md
-  - Request a Demo: demo-request.md
-  - About Us: about.md
-  - Contact: contact.md
+
+
   - Dashboards:
     - Customer Portal:
       - Log In: customer/login.md
