@@ -1,12 +1,12 @@
 # Ad Copy Generator
 
-This module outlines how CTX-EOR generates high-conversion recruiting advertisements tailored to the role, company, and location—powered by structured data and AI-driven personalization.
+This module outlines how Hireway generates high-conversion recruiting advertisements tailored to the role, company, and location—powered by structured data and AI-driven personalization.
 
 ---
 
 ## Purpose
 
-CTX-EOR’s Ad Copy Generator is designed to:
+Hireway’s Ad Copy Generator is designed to:
 
 - Automate job ad creation using role-specific data
 - Reflect the employer’s tone and priorities
@@ -38,7 +38,7 @@ The generator uses a combination of structured inputs to define the ad:
 
 ## Output
 
-CTX-EOR produces multiple ad formats:
+Hireway produces multiple ad formats:
 
 | Format         | Use Case                    | Example Use         |
 |----------------|-----------------------------|----------------------|
@@ -88,6 +88,6 @@ Customers can override tone settings through the **Customization Panel** (see li
 
 ---
 
-> This generator ensures CTX-EOR customers always launch with polished, high-performing job ads that reflect their brand and attract quality candidates.
+> This generator ensures Hireway customers always launch with polished, high-performing job ads that reflect their brand and attract quality candidates.
 
 File: `docs/recruiting/ad-copy-generator.md`
