@@ -1,6 +1,6 @@
 # Onboarding Progress
 
-Track the onboarding journey of each candidate currently going through the CTX-EOR process.
+Track the onboarding journey of each candidate currently going through the Hireway process.
 
 ---
 
