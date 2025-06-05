@@ -6,7 +6,7 @@ hide:
 
 # Let's Talk
 
-Have questions about how CTX-EOR can support your next hire?  
+Have questions about how Hireway can support your next hire?  
 We’re here to help — whether you want to:
 
 - Understand how trial hiring works  
@@ -30,7 +30,7 @@ Schedule a quick intro call with our team:
 
 No problem. Drop us a line and we’ll respond fast:
 
-**hello@ctx-eor.com**
+**hello@Hireway.com**
 
 (We usually respond within 1 business day.)
 
