@@ -10,7 +10,7 @@ hide:
 
 We make it easy to evaluate new talent on the job — before making a full-time offer.
 
-Here’s how the CTX-EOR model works from start to finish:
+Here’s how the Hireway model works from start to finish:
 
 ---
 
@@ -29,7 +29,7 @@ We can support your screening process — or stay out of it.
 
 ## Step 2: We Onboard and Employ Them
 
-CTX-EOR becomes the **legal employer** for the trial period.  
+Hireway becomes the **legal employer** for the trial period.  
 We handle:
 
 - IRS-compliant payroll  
@@ -74,7 +74,7 @@ No risk. No entanglements. Just a clearer decision.
 | Action | Who Does It | Typical Time |
 |--------|-------------|--------------|
 | Candidate selected | You | Anytime |
-| Onboarding begins | CTX-EOR | < 1 day |
+| Onboarding begins | Hireway | < 1 day |
 | Worker start date | You choose | 1–3 days |
 | Trial length | You choose | 2–12 weeks |
 | Hire decision | You | At trial end |
