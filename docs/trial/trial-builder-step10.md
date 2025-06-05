@@ -46,7 +46,7 @@ Enter the email(s) for anyone on your team who should receive updates, status re
 Click below and we’ll prepare everything — onboarding, documentation, payroll setup, and compliance alignment.
 
 [Save & Schedule a Demo](#)  
-> A CTX team member will reach out to confirm your trial and answer any final questions.
+> A Hireway team member will reach out to confirm your trial and answer any final questions.
 
 ---
 
