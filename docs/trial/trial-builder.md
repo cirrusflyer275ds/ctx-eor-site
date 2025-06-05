@@ -67,4 +67,4 @@ This builder will let you:
 - Browse job types by industry (from NAICS-to-SOC mappings)
 - Customize job tasks, skills, and expectations (O*NET-backed)
 - Save and generate your trial job profile
-- Share the trial with your team or CTX rep
+- Share the trial with your team or Hireway rep
