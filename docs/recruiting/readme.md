@@ -1,6 +1,6 @@
 # Recruiting Data Strategy: Source Documentation and Weighting Rationale
 
-This README documents the core public datasets leveraged by the CTX-EOR Recruiting Intelligence Engine. It explains the purpose of each dataset, how it's used, and its relative weight in generating smart, tailored recruiting outputs including ad copy, placement strategy, targeting insights, and qualification scoring.
+This README documents the core public datasets leveraged by the Hireway Recruiting Intelligence Engine. It explains the purpose of each dataset, how it's used, and its relative weight in generating smart, tailored recruiting outputs including ad copy, placement strategy, targeting insights, and qualification scoring.
 
 ---
 
@@ -95,4 +95,4 @@ This file exists to:
 
 ---
 
-This README is essential for ongoing technical transparency and performance evaluation as CTX-EOR's smart recruiting product grows.
+This README is essential for ongoing technical transparency and performance evaluation as Hireway's smart recruiting product grows.
