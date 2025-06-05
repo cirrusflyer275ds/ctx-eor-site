@@ -8,7 +8,7 @@ hide:
 
 ## Hire Smarter — Stay Safer
 
-When you work with CTX-EOR, you're not operating in a legal gray area. You're fully covered — from day one — with IRS, DHS, DOL, and state-level compliance built in.
+When you work with Hireway, you're not operating in a legal gray area. You're fully covered — from day one — with IRS, DHS, DOL, and state-level compliance built in.
 
 No guesswork. No shortcuts. No risky contractor misclassification.
 
