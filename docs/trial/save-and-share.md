@@ -35,7 +35,7 @@ Send this trial configuration to your team or hiring manager:
 ## 👀 What Happens Next?
 
 1. We’ll walk you through onboarding a candidate.
-2. CTX-EOR becomes the legal employer.
+2. Hireway becomes the legal employer.
 3. You manage the work. We handle compliance.
 
 ---
