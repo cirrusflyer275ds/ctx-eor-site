@@ -1,6 +1,6 @@
 # Customer Walkthrough Examples
 
-This section contains narrative-style examples showing how different customers experience the CTX-EOR recruiting process—from setup to candidate delivery.
+This section contains narrative-style examples showing how different customers experience the Hireway recruiting process—from setup to candidate delivery.
 
 ---
 
@@ -90,7 +90,7 @@ Each walkthrough follows the same structure:
 
 # Campaign Walkthroughs
 
-This module provides example workflows that show how CTX-EOR builds and launches a recruiting campaign from minimal input. These scenarios illustrate how customers interact with the platform and what happens behind the scenes.
+This module provides example workflows that show how Hireway builds and launches a recruiting campaign from minimal input. These scenarios illustrate how customers interact with the platform and what happens behind the scenes.
 
 ---
 
