@@ -6,15 +6,15 @@ hide:
 
 # Evaluate Real Performance — Not Just Potential
 
-## The CTX-EOR Evaluation Advantage
+## The Hireway Evaluation Advantage
 
-We believe the best hiring decisions come *after* someone starts working — not before. With CTX-EOR, you're not guessing from a résumé or relying on interviews alone. You're observing real work, under real conditions, with real stakes.
+We believe the best hiring decisions come *after* someone starts working — not before. With Hireway, you're not guessing from a résumé or relying on interviews alone. You're observing real work, under real conditions, with real stakes.
 
 ---
 
 ## A 90-Day, Purpose-Built Trial Period
 
-Every CTX-EOR engagement is backed by a structured 90-day trial designed to help you answer two key questions:
+Every Hireway engagement is backed by a structured 90-day trial designed to help you answer two key questions:
 
 1. **Are they meeting or exceeding expectations?**
 2. **Are they someone you'd hire again — without hesitation?**
