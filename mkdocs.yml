@@ -5,8 +5,11 @@ site_author: Hireway Team
 theme:
   name: material
   features:
+    - navigation.instant
     - navigation.expand
     - navigation.sections
+    - navigation.tabs
+    - navigation.top
   logo: logo.png
   favicon: logo.png
 
