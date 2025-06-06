@@ -87,7 +87,6 @@ nav:
       - Finalize & Save: trial/trial-builder-step10.md
       - Fine-Tune Production Worker: trial/fine-tune-selection.md
       - Evaluation-Checkpoints: trial/evaluation-checkpoints.md
-      - Save Trial: trial/save-and-share.md
       - Trial Dashboard: trial/trial-dashboard.md
       - Trial Details: trial/trial-details.md
   - Customer Portal:
