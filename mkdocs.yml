@@ -96,7 +96,7 @@ nav:
       - Onboarding Progress: customer/onboarding-progress.md
       - Trial Activity Log: customer/trial-activity-log.md
       - Documents & Forms: customer/documents-and-forms.md
-- CTX-EOR Admin:
+  - CTX-EOR Admin:
       - Log In: staff/login.md
       - Staff/Admin Dashboard: staff/staff-dashboards.md
       - Account Representative Dashboard: staff/account-rep-dashboard.md
