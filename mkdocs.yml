@@ -12,8 +12,6 @@ theme:
     - navigation.top
   logo: logo.png
   favicon: logo.png
-extra_css:
-  - styles/sidebar-overrides.css
 
 palette:
   - scheme: default
@@ -106,4 +104,5 @@ nav:
       - Admin Dashboard: staff/admin-dashboard.md
       - Staff User Management: staff/staff-users.md
       - Compliance Queue: staff/compliance-queue.md
-
+extra_css:
+  - styles/sidebar-overrides.css
