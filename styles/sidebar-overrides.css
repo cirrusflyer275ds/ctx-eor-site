@@ -8,8 +8,9 @@
   min-width: 200px;
   max-width: 400px;
 }
+/* Stronger, scoped, and color-aware version */
 .md-sidebar--primary {
-  border-right: 1px solid rgba(0, 0, 0, 0.12);
-  background-color: rgba(0, 0, 0, 0.03); /* adjust for dark mode if needed */
+  border-right: 1px solid var(--md-default-fg-color--lightest);
+  background-color: var(--md-default-bg-color--light);
 }
 
