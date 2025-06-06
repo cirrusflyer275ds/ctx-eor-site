@@ -1,53 +1,45 @@
----
-title: "Trial Builder — Step 10: Finalize & Save"
+title: "Trial Builder — Finalize & Share"
 hide:
-  - toc
----
 
-# ✅ Step 10: Finalize & Save Your Trial Plan  
-Review your trial configuration and submit it to our team. We’ll help you launch your first job tryout.
+toc
 
----
+✅ Finalize & Launch Your Trial Plan
 
-## 📄 Trial Summary
+You're done! Here's a summary of your trial job configuration. You can save it, share it, or launch onboarding now.
 
-**Company Name**: _Acme Box_  
-**Industry (NAICS)**: _493110 — General Warehousing & Storage_  
-**Role Selected**: _Logistics Coordinator_  
-**O*NET Mapping**: _43-5061.00 — Production, Planning, & Expediting Clerks_  
-**Tasks Selected**: 6  
-**Skills Chosen**: 5  
-**Trial Length**: 90 Days  
-**Check-ins**: 30 / 60 / 90-Day Prompts  
-**Custom Requirements**: Background check, Forklift cert verification
+📄 Trial Summary
 
----
+Company Name: Acme BoxIndustry (NAICS): 493110 — General Warehousing & StorageRole Selected: Logistics CoordinatorO*NET Mapping: 43-5061.00 — Production, Planning, & Expediting ClerksTasks Selected: 6Skills Chosen: 5Trial Length: 90 DaysCheck-ins: 30 / 60 / 90-Day PromptsCustom Requirements: Background check, Forklift cert verification
 
-## ✏️ Name Your Trial
+✏️ Name Your Trial
 
-Give your trial a clear, internal name:
+Give your trial a clear internal name:
 
-> Example: **Day Shift Coordinator (July Start)**
+Example: Day Shift Coordinator (July Start)
 
 [ ____________________________ ]
 
----
+👥 Share with Your Team
 
-## 👥 Who Should Receive Updates?
+Who should receive updates, reports, and onboarding alerts?
 
-Enter the email(s) for anyone on your team who should receive updates, status reports, and next steps.
 
-[ you@example.com, hiring@yourco.com ]
 
----
+Add recipient emails:[ you@example.com, hiring@yourco.com ]
 
-## 🚀 Ready to Launch?
+💾 Save or Launch
 
-Click below and we’ll prepare everything — onboarding, documentation, payroll setup, and compliance alignment.
+Once saved, your trial template will be:
 
-[Save & Schedule a Demo](#)  
-> A Hireway team member will reach out to confirm your trial and answer any final questions.
+Stored in your dashboard
 
----
+Available to reuse or clone
 
-[← Back to Check-ins](trial-builder-step9.md)  
+Linked to onboarding and payroll setup
+
+Next, we'll walk you through candidate onboarding. Hireway becomes the legal employer — you manage the work, we handle compliance.
+
+✅ It's fast.✅ It's safe.✅ It's smart trial hiring.
+
+← Back to Check-insSave & Start Onboarding
+
