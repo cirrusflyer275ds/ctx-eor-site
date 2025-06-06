@@ -12,6 +12,8 @@ theme:
     - navigation.top
   logo: logo.png
   favicon: logo.png
+extra_css:
+  - styles/sidebar-overrides.css
 
 palette:
   - scheme: default
