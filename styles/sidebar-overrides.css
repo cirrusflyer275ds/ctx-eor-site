@@ -1,16 +1,13 @@
+/* Light mode sidebar appearance */
 .md-sidebar--primary {
-  flex-basis: 280px;
+  border-right: 1px solid rgba(0, 0, 0, 0.08);
+  background-color: rgba(0, 0, 0, 0.02);
 }
 
-.md-sidebar {
-  resize: horizontal;
-  overflow: auto;
-  min-width: 200px;
-  max-width: 400px;
+/* Dark mode sidebar appearance */
+@media (prefers-color-scheme: dark) {
+  .md-sidebar--primary {
+    border-right: 1px solid rgba(255, 255, 255, 0.08);
+    background-color: rgba(255, 255, 255, 0.03);
+  }
 }
-/* Stronger, scoped, and color-aware version */
-.md-sidebar--primary {
-  border-right: 1px solid var(--md-default-fg-color--lightest);
-  background-color: var(--md-default-bg-color--light);
-}
-
