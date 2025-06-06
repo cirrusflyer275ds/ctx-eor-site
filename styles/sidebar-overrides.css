@@ -8,3 +8,8 @@
   min-width: 200px;
   max-width: 400px;
 }
+.md-sidebar--primary {
+  border-right: 1px solid rgba(0, 0, 0, 0.12);
+  background-color: rgba(0, 0, 0, 0.03); /* adjust for dark mode if needed */
+}
+
