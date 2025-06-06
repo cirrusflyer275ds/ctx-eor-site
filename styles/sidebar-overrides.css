@@ -1,0 +1,10 @@
+.md-sidebar--primary {
+  flex-basis: 280px;
+}
+
+.md-sidebar {
+  resize: horizontal;
+  overflow: auto;
+  min-width: 200px;
+  max-width: 400px;
+}
